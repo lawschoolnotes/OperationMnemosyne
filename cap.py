@@ -90,7 +90,7 @@ class Cap(object):
         case = self._request(url)
         return case.json()
 
-    def search_cases(self, search_term="", jurisdiction="", court="", decision_date_min="", decision_date_max="",
+    def search_cases(self, search_term="", jurisdiction="", court="", author="", decision_date_min="", decision_date_max="",
                      full_case=False, uri_only=False):
         """
         Full case search endpoint; retrieve list of cases matching specified parameters.
@@ -105,6 +105,8 @@ class Cap(object):
         :param court: Search by court; takes a court slug. Can only specify one slug.
                       See multi_search_cases to specifiy multiple court slugs.
         :type court: str
+        :param author: search by author; use opinion author's last name.
+        :type author: str
         :param decision_date_min: search by earliest date; YYYY-MM-DD format
         :type decision_date_min: string
         :param decision_date_max: search by maximum date; YYYY-MM-DD format
@@ -134,6 +136,9 @@ class Cap(object):
         if court:
             court = court.lower()
             url_queries.append("court=%s" % court)
+        
+        if author:
+            url_queries.append("author=%s" % author)
 
         if decision_date_min:
             try:
@@ -193,7 +198,7 @@ class Cap(object):
         """
         results = []
         for court in court_list:
-            results.append(self.search_cases(search_term=search_term, jurisdiction=jurisdiction, court=court,
+            results.append(self.search_cases(search_term=search_term, jurisdiction=jurisdiction, court=court, author=author,
                                              decision_date_min=decision_date_min,
                                              decision_date_max=decision_date_max, full_case=full_case,
                                              uri_only=True))
@@ -399,3 +404,5 @@ class Cap(object):
                         break
 
         print("Downloaded " + str(downloaded_count) + " court cases to file " + filename + ".")
+
+# %%

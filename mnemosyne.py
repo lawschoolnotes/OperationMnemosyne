@@ -1,18 +1,12 @@
 #%%
 import os
-import cap
 from dotenv import load_dotenv
-#%%
+import json
+import cap
+
 load_dotenv()
-#%%
 capp = cap.Cap()
+
 #%%
-scotus =  capp.get_courts(name="Supreme Court")
+CThomas = capp.search_cases(court="us", author="Thomas", full_case=False)
 #%%
-results = scotus["results"]
-#%%
-jur = []
-for result in results:
-    pairs = {"name":result["name"], "jurisdiction":result["jurisdiction"]}
-    jur.append(pairs)
-# %%
