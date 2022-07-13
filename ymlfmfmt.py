@@ -4,7 +4,6 @@ import glob
 import os.path
 import json
 import re
-from  lecturereg import TextFormatter as tf
 #%%
 basepath = 'C:\\Users\\Public\\School\\lawschoolnotes'
 file_type = 'md'
@@ -29,5 +28,5 @@ for file in files:
                 f.write(result)
             else:
                 print(f'{subs} substitutions made')
-        else:
-            nofront.append(file)   
+
+# %%
