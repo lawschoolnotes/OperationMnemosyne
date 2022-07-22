@@ -1,0 +1,2218 @@
+[
+    {
+        "RULE": "1",
+        "TITLE": "OBJECTIVE OF RULES"
+    },
+    {
+        "RULE": "2",
+        "TITLE": "SCOPE OF RULES"
+    },
+    {
+        "RULE": "3",
+        "TITLE": "CONSTRUCTION OF RULES"
+    },
+    {
+        "RULE": "3a",
+        "TITLE": "LOCAL RULES"
+    },
+    {
+        "RULE": "4",
+        "TITLE": "COMPUTATION OF TIME"
+    },
+    {
+        "RULE": "5",
+        "TITLE": "ENLARGEMENT OF TIME"
+    },
+    {
+        "RULE": "6",
+        "TITLE": "SUITS COMMENCED ON SUNDAY"
+    },
+    {
+        "RULE": "7",
+        "TITLE": "MAY APPEAR BY ATTORNEY"
+    },
+    {
+        "RULE": "8",
+        "TITLE": "ATTORNEY IN CHARGE"
+    },
+    {
+        "RULE": "9",
+        "TITLE": "NUMBER OF COUNSEL HEARD"
+    },
+    {
+        "RULE": "10",
+        "TITLE": "WITHDRAWAL OF ATTORNEY"
+    },
+    {
+        "RULE": "11",
+        "TITLE": "AGREEMENTS TO BE IN WRITING"
+    },
+    {
+        "RULE": "12",
+        "TITLE": "ATTORNEY TO SHOW AUTHORITY"
+    },
+    {
+        "RULE": "13",
+        "TITLE": "EFFECT OF SIGNING PLEADINGS, MOTIONS AND OTHER PAPERS; SANCTIONS"
+    },
+    {
+        "RULE": "14",
+        "TITLE": "AFFIDAVIT BY AGENT"
+    },
+    {
+        "RULE": "14b",
+        "TITLE": "RETURN OR OTHER DISPOSITION OF EXHIBITS"
+    },
+    {
+        "RULE": "14c",
+        "TITLE": "DEPOSIT IN LIEU OF SURETY BOND"
+    },
+    {
+        "RULE": "15",
+        "TITLE": "WRITS AND PROCESS"
+    },
+    {
+        "RULE": "16",
+        "TITLE": "SHALL ENDORSE ALL PROCESS"
+    },
+    {
+        "RULE": "17",
+        "TITLE": "OFFICER TO EXECUTE PROCESS"
+    },
+    {
+        "RULE": "18",
+        "TITLE": "WHEN JUDGE DIES DURING TERMS, RESIGNS OR IS DISABLED"
+    },
+    {
+        "RULE": "18a",
+        "TITLE": "RECUSAL AND DISQUALIFICATION OF JUDGES"
+    },
+    {
+        "RULE": "18b",
+        "TITLE": "GROUNDS FOR RECUSAL AND DISQUALIFICATION OF JUDGES"
+    },
+    {
+        "RULE": "18c",
+        "TITLE": "RECORDING AND BROADCASTING OF COURT PROCEEDINGS"
+    },
+    {
+        "RULE": "19",
+        "TITLE": "NON-ADJOURNMENT OF TERM"
+    },
+    {
+        "RULE": "20",
+        "TITLE": "MINUTES READ AND SIGNED"
+    },
+    {
+        "RULE": "21",
+        "TITLE": "FILING AND SERVING PLEADINGS AND MOTIONS"
+    },
+    {
+        "RULE": "21a",
+        "TITLE": "METHODS OF SERVICE"
+    },
+    {
+        "RULE": "21b",
+        "TITLE": "SANCTIONS FOR FAILURE TO SERVE OR DELIVER COPY OF PLEADINGS AND MOTIONS"
+    },
+    {
+        "RULE": "21c",
+        "TITLE": "PRIVACY PROTECTION FOR FILED DOCUMENTS"
+    },
+    {
+        "RULE": "22",
+        "TITLE": "COMMENCED BY PETITION"
+    },
+    {
+        "RULE": "23",
+        "TITLE": "SUITS TO BE NUMBERED CONSECUTIVELY"
+    },
+    {
+        "RULE": "24",
+        "TITLE": "DUTY OF CLERK"
+    },
+    {
+        "RULE": "25",
+        "TITLE": "CLERK'S FILE DOCKET"
+    },
+    {
+        "RULE": "26",
+        "TITLE": "CLERK'S COURT DOCKET"
+    },
+    {
+        "RULE": "27",
+        "TITLE": "ORDER OF CASES"
+    },
+    {
+        "RULE": "28",
+        "TITLE": "SUITS IN ASSUMED NAME"
+    },
+    {
+        "RULE": "29",
+        "TITLE": "SUIT ON CLAIM AGAINST DISSOLVED CORPORATION"
+    },
+    {
+        "RULE": "30",
+        "TITLE": "PARTIES TO SUITS"
+    },
+    {
+        "RULE": "31",
+        "TITLE": "SURETY NOT TO BE SUED ALONE"
+    },
+    {
+        "RULE": "32",
+        "TITLE": "MAY HAVE QUESTION OF SURETYSHIP TRIED"
+    },
+    {
+        "RULE": "33",
+        "TITLE": "SUITS BY OR AGAINST COUNTIES"
+    },
+    {
+        "RULE": "34",
+        "TITLE": "AGAINST SHERIFF, ETC."
+    },
+    {
+        "RULE": "35",
+        "TITLE": "ON OFFICIAL BONDS"
+    },
+    {
+        "RULE": "36",
+        "TITLE": "DIFFERENT OFFICIALS AND BONDSMEN"
+    },
+    {
+        "RULE": "37",
+        "TITLE": "ADDITIONAL PARTIES"
+    },
+    {
+        "RULE": "38",
+        "TITLE": "THIRD-PARTY PRACTICE"
+    },
+    {
+        "RULE": "39",
+        "TITLE": "JOINDER OF PERSONS NEEDED FOR JUST ADJUDICATION"
+    },
+    {
+        "RULE": "40",
+        "TITLE": "PERMISSIVE JOINDER OF PARTIES"
+    },
+    {
+        "RULE": "41",
+        "TITLE": "MISJOINDER OR NON-JOINDER OF PARTIES"
+    },
+    {
+        "RULE": "42",
+        "TITLE": "CLASS ACTIONS"
+    },
+    {
+        "RULE": "43",
+        "TITLE": "INTERPLEADER"
+    },
+    {
+        "RULE": "44",
+        "TITLE": "MAY APPEAR BY NEXT FRIEND"
+    },
+    {
+        "RULE": "45",
+        "TITLE": "DEFINITION AND SYSTEM"
+    },
+    {
+        "RULE": "46",
+        "TITLE": "PETITION AND ANSWER; EACH ONE INSTRUMENT OF WRITING ."
+    },
+    {
+        "RULE": "47",
+        "TITLE": "CLAIMS FOR RELIEF"
+    },
+    {
+        "RULE": "48",
+        "TITLE": "ALTERNATIVE CLAIMS FOR RELIEF"
+    },
+    {
+        "RULE": "49",
+        "TITLE": "WHERE SEVERAL COUNTS"
+    },
+    {
+        "RULE": "50",
+        "TITLE": "PARAGRAPHS, SEPARATE STATEMENTS"
+    },
+    {
+        "RULE": "51",
+        "TITLE": "JOINDER OF CLAIMS AND REMEDIES"
+    },
+    {
+        "RULE": "52",
+        "TITLE": "ALLEGING A CORPORATION"
+    },
+    {
+        "RULE": "53",
+        "TITLE": "SPECIAL ACT OR LAW"
+    },
+    {
+        "RULE": "54",
+        "TITLE": "CONDITIONS PRECEDENT"
+    },
+    {
+        "RULE": "55",
+        "TITLE": "JUDGMENT"
+    },
+    {
+        "RULE": "56",
+        "TITLE": "SPECIAL DAMAGE"
+    },
+    {
+        "RULE": "57",
+        "TITLE": "SIGNING OF PLEADINGS"
+    },
+    {
+        "RULE": "58",
+        "TITLE": "ADOPTION BY REFERENCE"
+    },
+    {
+        "RULE": "59",
+        "TITLE": "EXHIBITS AND PLEADING"
+    },
+    {
+        "RULE": "60",
+        "TITLE": "INTERVENOR'S PLEADINGS"
+    },
+    {
+        "RULE": "61",
+        "TITLE": "TRIAL: INTERVENORS: RULES APPLY TO ALL PARTIES"
+    },
+    {
+        "RULE": "62",
+        "TITLE": "AMENDMENT DEFINED"
+    },
+    {
+        "RULE": "63",
+        "TITLE": "AMENDMENTS AND RESPONSIVE PLEADINGS"
+    },
+    {
+        "RULE": "64",
+        "TITLE": "AMENDED INSTRUMENT"
+    },
+    {
+        "RULE": "65",
+        "TITLE": "SUBSTITUTED INSTRUMENT TAKES PLACE OF ORIGINAL"
+    },
+    {
+        "RULE": "66",
+        "TITLE": "TRIAL AMENDMENT"
+    },
+    {
+        "RULE": "67",
+        "TITLE": "AMENDMENTS TO CONFORM TO ISSUES TRIED WITHOUT OBJECTION"
+    },
+    {
+        "RULE": "68",
+        "TITLE": "COURT MAY ORDER REPLEADER"
+    },
+    {
+        "RULE": "69",
+        "TITLE": "SUPPLEMENTAL PETITION OR ANSWER"
+    },
+    {
+        "RULE": "70",
+        "TITLE": "PLEADING: SURPRISE: COST"
+    },
+    {
+        "RULE": "71",
+        "TITLE": "MISNOMER OF PLEADING"
+    },
+    {
+        "RULE": "74",
+        "TITLE": "FILING WITH THE COURT DEFINED"
+    },
+    {
+        "RULE": "75",
+        "TITLE": "FILED PLEADINGS; WITHDRAWAL"
+    },
+    {
+        "RULE": "75a",
+        "TITLE": "FILING EXHIBITS: COURT REPORTER TO FILE WITH CLERK"
+    },
+    {
+        "RULE": "75b",
+        "TITLE": "FILED EXHIBITS: WITHDRAWAL"
+    },
+    {
+        "RULE": "76",
+        "TITLE": "MAY INSPECT PAPERS"
+    },
+    {
+        "RULE": "76a",
+        "TITLE": "SEALING COURT RECORDS"
+    },
+    {
+        "RULE": "77",
+        "TITLE": "LOST RECORDS AND PAPERS"
+    },
+    {
+        "RULE": "78",
+        "TITLE": "PETITION: ORIGINAL AND SUPPLEMENTAL; INDORSEMENT"
+    },
+    {
+        "RULE": "79",
+        "TITLE": "THE PETITION"
+    },
+    {
+        "RULE": "80",
+        "TITLE": "PLAINTIFF'S SUPPLEMENTAL PETITION"
+    },
+    {
+        "RULE": "81",
+        "TITLE": "DEFENSIVE MATTERS"
+    },
+    {
+        "RULE": "82",
+        "TITLE": "SPECIAL DEFENSES"
+    },
+    {
+        "RULE": "83",
+        "TITLE": "ANSWER; ORIGINAL AND SUPPLEMENTAL; INDORSEMENT"
+    },
+    {
+        "RULE": "84",
+        "TITLE": "ANSWER MAY INCLUDE SEVERAL MATTERS"
+    },
+    {
+        "RULE": "85",
+        "TITLE": "ORIGINAL ANSWER; CONTENTS"
+    },
+    {
+        "RULE": "86",
+        "TITLE": "MOTION TO TRANSFER VENUE"
+    },
+    {
+        "RULE": "87",
+        "TITLE": "DETERMINATION OF MOTION TO TRANSFER"
+    },
+    {
+        "RULE": "88",
+        "TITLE": "DISCOVERY AND VENUE"
+    },
+    {
+        "RULE": "89",
+        "TITLE": "TRANSFERRED IF MOTION IS SUSTAINED"
+    },
+    {
+        "RULE": "90",
+        "TITLE": "WAIVER OF DEFECTS IN PLEADING"
+    },
+    {
+        "RULE": "91",
+        "TITLE": "SPECIAL EXCEPTIONS"
+    },
+    {
+        "RULE": "91a",
+        "TITLE": "DISMISSAL OF BASELESS CAUSES OF ACTION"
+    },
+    {
+        "RULE": "92",
+        "TITLE": "GENERAL DENIAL"
+    },
+    {
+        "RULE": "93",
+        "TITLE": "CERTAIN PLEAS TO BE VERIFIED"
+    },
+    {
+        "RULE": "94",
+        "TITLE": "AFFIRMATIVE DEFENSES"
+    },
+    {
+        "RULE": "95",
+        "TITLE": "PLEAS OF PAYMENT"
+    },
+    {
+        "RULE": "96",
+        "TITLE": "NO DISCONTINUANCE"
+    },
+    {
+        "RULE": "97",
+        "TITLE": "COUNTERCLAIM AND CROSS-CLAIM"
+    },
+    {
+        "RULE": "98",
+        "TITLE": "SUPPLEMENTAL ANSWERS"
+    },
+    {
+        "RULE": "99",
+        "TITLE": "ISSUANCE AND FORM OF CITATION"
+    },
+    {
+        "RULE": "103",
+        "TITLE": "WHO MAY SERVE"
+    },
+    {
+        "RULE": "105",
+        "TITLE": "DUTY OF OFFICER OR PERSON RECEIVING"
+    },
+    {
+        "RULE": "106",
+        "TITLE": "METHOD OF SERVICE"
+    },
+    {
+        "RULE": "107",
+        "TITLE": "RETURN OF SERVICE"
+    },
+    {
+        "RULE": "108",
+        "TITLE": "SERVICE IN ANOTHER STATE"
+    },
+    {
+        "RULE": "108a",
+        "TITLE": "SERVICE OF PROCESS IN FOREIGN COUNTRIES"
+    },
+    {
+        "RULE": "109",
+        "TITLE": "CITATION BY PUBLICATION"
+    },
+    {
+        "RULE": "109a",
+        "TITLE": "OTHER SUBSTITUTED SERVICE"
+    },
+    {
+        "RULE": "110",
+        "TITLE": "EFFECT OF RULES ON OTHER STATUTES"
+    },
+    {
+        "RULE": "111",
+        "TITLE": "CITATION BY PUBLICATION IN ACTION AGAINST UNKNOWN HEIRS OR STOCKHOLDERS OF DEFUNCT CORPORATIONS"
+    },
+    {
+        "RULE": "112",
+        "TITLE": "PARTIES TO ACTIONS AGAINST UNKNOWN OWNERS OR CLAIMANTS OF INTEREST IN LAND"
+    },
+    {
+        "RULE": "113",
+        "TITLE": "CITATION BY PUBLICATION IN ACTIONS AGAINST UNKNOWN OWNERS OR CLAIMANTS OF INTEREST IN LAND"
+    },
+    {
+        "RULE": "114",
+        "TITLE": "CITATION BY PUBLICATION; REQUISITES"
+    },
+    {
+        "RULE": "115",
+        "TITLE": "FORM OF PUBLISHED CITATION IN ACTIONS INVOLVING LAND ."
+    },
+    {
+        "RULE": "116",
+        "TITLE": "SERVICE OF CITATION BY PUBLICATION"
+    },
+    {
+        "RULE": "117",
+        "TITLE": "RETURN OF CITATION BY PUBLICATION"
+    },
+    {
+        "RULE": "117a",
+        "TITLE": "CITATION IN SUITS FOR DELINQUENT AD VALOREM TAXES"
+    },
+    {
+        "RULE": "118",
+        "TITLE": "AMENDMENT"
+    },
+    {
+        "RULE": "119",
+        "TITLE": "ACCEPTANCE OF SERVICE"
+    },
+    {
+        "RULE": "119a",
+        "TITLE": "COPY OF DECREE"
+    },
+    {
+        "RULE": "120",
+        "TITLE": "ENTERING APPEARANCE"
+    },
+    {
+        "RULE": "120a",
+        "TITLE": "SPECIAL APPEARANCE"
+    },
+    {
+        "RULE": "121",
+        "TITLE": "ANSWER IS APPEARANCE"
+    },
+    {
+        "RULE": "122",
+        "TITLE": "CONSTRUCTIVE APPEARANCE"
+    },
+    {
+        "RULE": "123",
+        "TITLE": "REVERSAL OF JUDGMENT"
+    },
+    {
+        "RULE": "124",
+        "TITLE": "NO JUDGMENT WITHOUT SERVICE"
+    },
+    {
+        "RULE": "125",
+        "TITLE": "PARTIES RESPONSIBLE"
+    },
+    {
+        "RULE": "126",
+        "TITLE": "FEE FOR SERVICE OF PROCESS IN A COUNTY OTHER THAN IN THE COUNTY OF SUIT"
+    },
+    {
+        "RULE": "127",
+        "TITLE": "PARTIES LIABLE FOR OTHER COSTS"
+    },
+    {
+        "RULE": "129",
+        "TITLE": "HOW COSTS COLLECTED"
+    },
+    {
+        "RULE": "130",
+        "TITLE": "OFFICER TO LEVY"
+    },
+    {
+        "RULE": "131",
+        "TITLE": "SUCCESSFUL PARTY TO RECOVER"
+    },
+    {
+        "RULE": "133",
+        "TITLE": "COSTS OF MOTION"
+    },
+    {
+        "RULE": "136",
+        "TITLE": "DEMAND REDUCED BY PAYMENTS"
+    },
+    {
+        "RULE": "137",
+        "TITLE": "IN ASSAULT AND BATTERY ETC"
+    },
+    {
+        "RULE": "138",
+        "TITLE": "COST OF NEW TRIALS"
+    },
+    {
+        "RULE": "139",
+        "TITLE": "ON APPEAL AND CERTIORARI"
+    },
+    {
+        "RULE": "140",
+        "TITLE": "NO FEE FOR COPY"
+    },
+    {
+        "RULE": "141",
+        "TITLE": "COURT MAY OTHERWISE ADJUDGE COSTS"
+    },
+    {
+        "RULE": "142",
+        "TITLE": "SECURITY FOR COSTS"
+    },
+    {
+        "RULE": "143",
+        "TITLE": "RULE FOR COSTS"
+    },
+    {
+        "RULE": "143a",
+        "TITLE": "COSTS ON APPEAL TO COUNTY COURT"
+    },
+    {
+        "RULE": "144",
+        "TITLE": "JUDGMENT ON COST BOND"
+    },
+    {
+        "RULE": "145",
+        "TITLE": "PAYMENT OF COSTS NOT REQUIRED"
+    },
+    {
+        "RULE": "146",
+        "TITLE": "DEPOSIT FOR COSTS"
+    },
+    {
+        "RULE": "147",
+        "TITLE": "APPLIES TO ANY PARTY"
+    },
+    {
+        "RULE": "148",
+        "TITLE": "SECURED BY OTHER BOND"
+    },
+    {
+        "RULE": "149",
+        "TITLE": "EXECUTION FOR COSTS"
+    },
+    {
+        "RULE": "150",
+        "TITLE": "DEATH OF PARTY"
+    },
+    {
+        "RULE": "151",
+        "TITLE": "DEATH OF PLAINTIFF"
+    },
+    {
+        "RULE": "152",
+        "TITLE": "DEATH OF DEFENDANT"
+    },
+    {
+        "RULE": "153",
+        "TITLE": "WHEN EXECUTOR, ETC. DIES"
+    },
+    {
+        "RULE": "154",
+        "TITLE": "REQUISITES OF SCIRE FACIAS"
+    },
+    {
+        "RULE": "155",
+        "TITLE": "SURVIVING PARTIES"
+    },
+    {
+        "RULE": "156",
+        "TITLE": "DEATH AFTER VERDICT OR CLOSE OF EVIDENCE"
+    },
+    {
+        "RULE": "158",
+        "TITLE": "SUIT FOR THE USE OF ANOTHER"
+    },
+    {
+        "RULE": "159",
+        "TITLE": "SUIT FOR INJURIES RESULTING IN DEATH"
+    },
+    {
+        "RULE": "160",
+        "TITLE": "DISSOLUTION OF CORPORATION"
+    },
+    {
+        "RULE": "161",
+        "TITLE": "WHERE SOME DEFENDANTS NOT SERVED"
+    },
+    {
+        "RULE": "162",
+        "TITLE": "DISMISSAL OR NON-SUIT"
+    },
+    {
+        "RULE": "163",
+        "TITLE": "DISMISSAL AS TO PARTIES SERVED, ETC."
+    },
+    {
+        "RULE": "165",
+        "TITLE": "ABANDONMENT"
+    },
+    {
+        "RULE": "165a",
+        "TITLE": "DISMISSAL FOR WANT OF PROSECUTION"
+    },
+    {
+        "RULE": "166",
+        "TITLE": "PRE-TRIAL CONFERENCE"
+    },
+    {
+        "RULE": "166a",
+        "TITLE": "SUMMARY JUDGMENT"
+    },
+    {
+        "RULE": "167",
+        "TITLE": "OFFER OF SETTLEMENT; AWARD OF LITIGATION COSTS"
+    },
+    {
+        "RULE": "168",
+        "TITLE": "PERMISSION TO APPEAL"
+    },
+    {
+        "RULE": "169",
+        "TITLE": "EXPEDITED ACTIONS"
+    },
+    {
+        "RULE": "171",
+        "TITLE": "MASTER IN CHANCERY"
+    },
+    {
+        "RULE": "172",
+        "TITLE": "AUDIT"
+    },
+    {
+        "RULE": "173",
+        "TITLE": "GUARDIAN AD LITEM"
+    },
+    {
+        "RULE": "174",
+        "TITLE": "CONSOLIDATION; SEPARATE TRIALS"
+    },
+    {
+        "RULE": "175",
+        "TITLE": "ISSUE OF LAW AND DILATORY PLEAS"
+    },
+    {
+        "RULE": "176",
+        "TITLE": "SUBPOENAS"
+    },
+    {
+        "RULE": "180",
+        "TITLE": "REFUSAL TO TESTIFY"
+    },
+    {
+        "RULE": "181",
+        "TITLE": "PARTY AS WITNESS"
+    },
+    {
+        "RULE": "183",
+        "TITLE": "INTERPRETERS"
+    },
+    {
+        "RULE": "185",
+        "TITLE": "SUIT ON ACCOUNT"
+    },
+    {
+        "RULE": "190",
+        "TITLE": "DISCOVERY LIMITATIONS"
+    },
+    {
+        "RULE": "191",
+        "TITLE": "MODIFYING DISCOVERY PROCEDURES AND LIMITATIONS; CONFERENCE REQUIREMENT; SIGNING DISCLOSURES; DISCOVERY REQUESTS, RESPONSES, AND OBJECTIONS; FILING REQUIREMENTS"
+    },
+    {
+        "RULE": "192",
+        "TITLE": "PERMISSIBLE DISCOVERY: FORMS AND SCOPE; WORK PRODUCT; PROTECTIVE ORDERS; DEFINITIONS"
+    },
+    {
+        "RULE": "193",
+        "TITLE": "WRITTEN DISCOVERY: RESPONSE; OBJECTION; ASSERTION OF PRIVILEGE; SUPPLEMENTATION AND AMENDMENT; FAILURE TO TIMELY RESPOND; PRESUMPTION OF AUTHENTICITY"
+    },
+    {
+        "RULE": "194",
+        "TITLE": "REQUIRED DISCLOSURES"
+    },
+    {
+        "RULE": "195",
+        "TITLE": "DISCOVERY REGARDING TESTIFYING EXPERT WITNESSES"
+    },
+    {
+        "RULE": "196",
+        "TITLE": "REQUESTS FOR PRODUCTION AND INSPECTION TO PARTIES; REQUESTS AND MOTIONS FOR ENTRY UPON PROPERTY"
+    },
+    {
+        "RULE": "197",
+        "TITLE": "INTERROGATORIES TO PARTIES"
+    },
+    {
+        "RULE": "198",
+        "TITLE": "REQUESTS FOR ADMISSIONS"
+    },
+    {
+        "RULE": "199",
+        "TITLE": "DEPOSITIONS UPON ORAL EXAMINATION"
+    },
+    {
+        "RULE": "200",
+        "TITLE": "DEPOSITIONS UPON WRITTEN QUESTIONS"
+    },
+    {
+        "RULE": "201",
+        "TITLE": "DEPOSITIONS IN FOREIGN JURISDICTIONS FOR USE IN TEXAS PROCEEDINGS; DEPOSITIONS IN TEXAS FOR USE IN FOREIGN PROCEEDINGS"
+    },
+    {
+        "RULE": "202",
+        "TITLE": "DEPOSITIONS BEFORE SUIT OR TO INVESTIGATE CLAIMS"
+    },
+    {
+        "RULE": "203",
+        "TITLE": "SIGNING, CERTIFICATION AND USE OF ORAL AND WRITTEN DEPOSITIONS"
+    },
+    {
+        "RULE": "204",
+        "TITLE": "PHYSICAL AND MENTAL EXAMINATION"
+    },
+    {
+        "RULE": "205",
+        "TITLE": "DISCOVERY FROM NON-PARTIES"
+    },
+    {
+        "RULE": "215",
+        "TITLE": "ABUSE OF DISCOVERY; SANCTIONS"
+    },
+    {
+        "RULE": "216",
+        "TITLE": "REQUEST AND FEE FOR JURY TRIAL"
+    },
+    {
+        "RULE": "217",
+        "TITLE": "OATH OF INABILITY"
+    },
+    {
+        "RULE": "218",
+        "TITLE": "JURY DOCKET"
+    },
+    {
+        "RULE": "219",
+        "TITLE": "JURY TRIAL DAY"
+    },
+    {
+        "RULE": "220",
+        "TITLE": "WITHDRAWING CAUSE FROM JURY DOCKET"
+    },
+    {
+        "RULE": "221",
+        "TITLE": "CHALLENGE TO THE ARRAY"
+    },
+    {
+        "RULE": "222",
+        "TITLE": "WHEN CHALLENGE IS SUSTAINED"
+    },
+    {
+        "RULE": "223",
+        "TITLE": "JURY LIST IN CERTAIN COUNTIES"
+    },
+    {
+        "RULE": "224",
+        "TITLE": "PREPARING JURY LIST"
+    },
+    {
+        "RULE": "225",
+        "TITLE": "SUMMONING TALESMAN"
+    },
+    {
+        "RULE": "226",
+        "TITLE": "OATH TO JURY PANEL"
+    },
+    {
+        "RULE": "226a",
+        "TITLE": "INSTRUCTIONS TO JURY PANEL AND JURY"
+    },
+    {
+        "RULE": "227",
+        "TITLE": "CHALLENGE TO JUROR"
+    },
+    {
+        "RULE": "228",
+        "TITLE": "\"CHALLENGE FOR CAUSE\" DEFINED"
+    },
+    {
+        "RULE": "229",
+        "TITLE": "CHALLENGE FOR CAUSE"
+    },
+    {
+        "RULE": "230",
+        "TITLE": "CERTAIN QUESTIONS NOT TO BE ASKED"
+    },
+    {
+        "RULE": "231",
+        "TITLE": "NUMBER REDUCED BY CHALLENGES"
+    },
+    {
+        "RULE": "232",
+        "TITLE": "MAKING PEREMPTORY CHALLENGES"
+    },
+    {
+        "RULE": "233",
+        "TITLE": "NUMBER OF PEREMPTORY CHALLENGES"
+    },
+    {
+        "RULE": "234",
+        "TITLE": "LISTS RETURNED TO THE CLERK"
+    },
+    {
+        "RULE": "235",
+        "TITLE": "IF JURY IS INCOMPLETE"
+    },
+    {
+        "RULE": "236",
+        "TITLE": "OATH TO JURY"
+    },
+    {
+        "RULE": "237",
+        "TITLE": "APPEARANCE DAY"
+    },
+    {
+        "RULE": "237a",
+        "TITLE": "CASES REMANDED FROM FEDERAL COURT"
+    },
+    {
+        "RULE": "238",
+        "TITLE": "CALL OF APPEARANCE DOCKET"
+    },
+    {
+        "RULE": "239",
+        "TITLE": "JUDGMENT BY DEFAULT"
+    },
+    {
+        "RULE": "239a",
+        "TITLE": "NOTICE OF DEFAULT JUDGMENT"
+    },
+    {
+        "RULE": "240",
+        "TITLE": "WHERE ONLY SOME ANSWER"
+    },
+    {
+        "RULE": "241",
+        "TITLE": "ASSESSING DAMAGES ON LIQUIDATED DEMANDS"
+    },
+    {
+        "RULE": "243",
+        "TITLE": "UNLIQUIDATED DEMANDS"
+    },
+    {
+        "RULE": "244",
+        "TITLE": "ON SERVICE BY PUBLICATION"
+    },
+    {
+        "RULE": "245",
+        "TITLE": "ASSIGNMENT OF CASES FOR TRIAL"
+    },
+    {
+        "RULE": "246",
+        "TITLE": "CLERK TO GIVE NOTICE OF SETTINGS"
+    },
+    {
+        "RULE": "247",
+        "TITLE": "TRIED WHEN SET"
+    },
+    {
+        "RULE": "248",
+        "TITLE": "JURY CASES"
+    },
+    {
+        "RULE": "249",
+        "TITLE": "CALL OF NON-JURY DOCKET"
+    },
+    {
+        "RULE": "251",
+        "TITLE": "CONTINUANCE"
+    },
+    {
+        "RULE": "252",
+        "TITLE": "APPLICATION FOR CONTINUANCE"
+    },
+    {
+        "RULE": "253",
+        "TITLE": "ABSENCE OF COUNSEL AS GROUND FOR CONTINUANCE"
+    },
+    {
+        "RULE": "254",
+        "TITLE": "ATTENDANCE ON LEGISLATURE"
+    },
+    {
+        "RULE": "255",
+        "TITLE": "CHANGE OF VENUE BY CONSENT"
+    },
+    {
+        "RULE": "257",
+        "TITLE": "GRANTED ON MOTION"
+    },
+    {
+        "RULE": "258",
+        "TITLE": "SHALL BE GRANTED"
+    },
+    {
+        "RULE": "259",
+        "TITLE": "TO WHAT COUNTY"
+    },
+    {
+        "RULE": "261",
+        "TITLE": "TRANSCRIPT ON CHANGE"
+    },
+    {
+        "RULE": "262",
+        "TITLE": "TRIAL BY THE COURT"
+    },
+    {
+        "RULE": "263",
+        "TITLE": "AGREED CASE"
+    },
+    {
+        "RULE": "264",
+        "TITLE": "VIDEOTAPE TRIAL"
+    },
+    {
+        "RULE": "265",
+        "TITLE": "ORDER OF PROCEEDINGS ON TRIAL BY JURY"
+    },
+    {
+        "RULE": "266",
+        "TITLE": "OPEN AND CLOSE - ADMISSION"
+    },
+    {
+        "RULE": "267",
+        "TITLE": "WITNESSES PLACED UNDER RULE"
+    },
+    {
+        "RULE": "268",
+        "TITLE": "MOTION FOR INSTRUCTED VERDICT"
+    },
+    {
+        "RULE": "269",
+        "TITLE": "ARGUMENT"
+    },
+    {
+        "RULE": "270",
+        "TITLE": "ADDITIONAL TESTIMONY"
+    },
+    {
+        "RULE": "271",
+        "TITLE": "CHARGE TO THE JURY"
+    },
+    {
+        "RULE": "272",
+        "TITLE": "REQUISITES"
+    },
+    {
+        "RULE": "273",
+        "TITLE": "JURY SUBMISSIONS"
+    },
+    {
+        "RULE": "274",
+        "TITLE": "OBJECTIONS AND REQUESTS"
+    },
+    {
+        "RULE": "275",
+        "TITLE": "CHARGE READ BEFORE ARGUMENT"
+    },
+    {
+        "RULE": "276",
+        "TITLE": "REFUSAL OR MODIFICATION"
+    },
+    {
+        "RULE": "277",
+        "TITLE": "SUBMISSION TO THE JURY"
+    },
+    {
+        "RULE": "278",
+        "TITLE": " SUBMISSION OF QUESTIONS, DEFINITIONS, AND INSTRUCTIONS"
+    },
+    {
+        "RULE": "279",
+        "TITLE": "OMISSIONS FROM THE CHARGE"
+    },
+    {
+        "RULE": "280",
+        "TITLE": "PRESIDING JUROR OF JURY"
+    },
+    {
+        "RULE": "281",
+        "TITLE": "PAPERS TAKEN TO JURY ROOM"
+    },
+    {
+        "RULE": "282",
+        "TITLE": "JURY KEPT TOGETHER"
+    },
+    {
+        "RULE": "283",
+        "TITLE": "DUTY OF OFFICER ATTENDING JURY"
+    },
+    {
+        "RULE": "284",
+        "TITLE": "JUDGE TO CAUTION JURY"
+    },
+    {
+        "RULE": "285",
+        "TITLE": "JURY MAY COMMUNICATE WITH COURT"
+    },
+    {
+        "RULE": "286",
+        "TITLE": "JURY MY RECEIVE FURTHER INSTRUCTIONS"
+    },
+    {
+        "RULE": "287",
+        "TITLE": "DISAGREEMENT AS TO EVIDENCE"
+    },
+    {
+        "RULE": "288",
+        "TITLE": "COURT OPEN FOR JURY"
+    },
+    {
+        "RULE": "289",
+        "TITLE": "DISCHARGE OF JURY"
+    },
+    {
+        "RULE": "290",
+        "TITLE": "DEFINITION AND SUBSTANCE"
+    },
+    {
+        "RULE": "291",
+        "TITLE": "FORM OF VERDICT"
+    },
+    {
+        "RULE": "292",
+        "TITLE": "VERDICT BY PORTION OF ORIGINAL JURY"
+    },
+    {
+        "RULE": "293",
+        "TITLE": "WHEN THE JURY AGREE"
+    },
+    {
+        "RULE": "294",
+        "TITLE": "POLLING THE JURY"
+    },
+    {
+        "RULE": "295",
+        "TITLE": "CORRECTION OF VERDICT"
+    },
+    {
+        "RULE": "296",
+        "TITLE": "REQUESTS FOR FINDINGS OF FACTS AND CONCLUSIONS OF LAW"
+    },
+    {
+        "RULE": "297",
+        "TITLE": "TIME TO FILE FINDINGS OF FACT AND CONCLUSIONS OF LAW."
+    },
+    {
+        "RULE": "298",
+        "TITLE": "ADDITIONAL OR AMENDED FINDINGS OF FACT AND CONCLUSIONS OF LAW"
+    },
+    {
+        "RULE": "299",
+        "TITLE": "OMITTED FINDINGS"
+    },
+    {
+        "RULE": "299a",
+        "TITLE": "FINDINGS OF FACT TO BE SEPARATELY FILED AND NOT RECITED IN A JUDGMENT"
+    },
+    {
+        "RULE": "300",
+        "TITLE": "COURT TO RENDER JUDGMENT"
+    },
+    {
+        "RULE": "301",
+        "TITLE": "JUDGMENTS"
+    },
+    {
+        "RULE": "302",
+        "TITLE": "ON COUNTERCLAIM"
+    },
+    {
+        "RULE": "303",
+        "TITLE": "ON COUNTERCLAIM FOR COSTS"
+    },
+    {
+        "RULE": "304",
+        "TITLE": "JUDGMENT UPON RECORD"
+    },
+    {
+        "RULE": "305",
+        "TITLE": "PROPOSED JUDGMENT"
+    },
+    {
+        "RULE": "306",
+        "TITLE": "RECITATION OF JUDGMENT"
+    },
+    {
+        "RULE": "306a",
+        "TITLE": "PERIODS TO RUN FROM SIGNING OF JUDGMENT"
+    },
+    {
+        "RULE": "306c",
+        "TITLE": "PREMATURELY FILED DOCUMENTS"
+    },
+    {
+        "RULE": "307",
+        "TITLE": "EXCEPTIONS, ETC., TRANSCRIPT"
+    },
+    {
+        "RULE": "308",
+        "TITLE": "COURT SHALL ENFORCE ITS DECREES"
+    },
+    {
+        "RULE": "308a",
+        "TITLE": "IN SUITS AFFECTING THE PARENT-CHILD RELATIONSHIP"
+    },
+    {
+        "RULE": "308b",
+        "TITLE": "DETERMINING THE ENFORCEABILITY OF A JUDGMENT OR ARBITRATION AWARD BASED ON FOREIGN LAW IN CERTAIN SUITS UNDER THE FAMILY CODE"
+    },
+    {
+        "RULE": "309",
+        "TITLE": "IN FORECLOSURE PROCEEDINGS"
+    },
+    {
+        "RULE": "310",
+        "TITLE": "WRIT OF POSSESSION"
+    },
+    {
+        "RULE": "311",
+        "TITLE": "ON APPEAL FROM PROBATE COURT"
+    },
+    {
+        "RULE": "312",
+        "TITLE": "ON APPEAL FROM JUSTICE COURT"
+    },
+    {
+        "RULE": "313",
+        "TITLE": "AGAINST EXECUTORS, ETC."
+    },
+    {
+        "RULE": "314",
+        "TITLE": "CONFESSION OF JUDGMENT"
+    },
+    {
+        "RULE": "315",
+        "TITLE": "REMITTITUR"
+    },
+    {
+        "RULE": "316",
+        "TITLE": " CORRECTION OF CLERICAL MISTAKES IN JUDGMENT RECORD"
+    },
+    {
+        "RULE": "320",
+        "TITLE": "MOTION AND ACTION OF COURT THEREON"
+    },
+    {
+        "RULE": "321",
+        "TITLE": "FORM"
+    },
+    {
+        "RULE": "322",
+        "TITLE": "GENERALITY TO BE AVOIDED"
+    },
+    {
+        "RULE": "324",
+        "TITLE": "PREREQUISITES OF APPEAL"
+    },
+    {
+        "RULE": "326",
+        "TITLE": "NOT MORE THAN TWO"
+    },
+    {
+        "RULE": "327",
+        "TITLE": "FOR JURY MISCONDUCT"
+    },
+    {
+        "RULE": "329",
+        "TITLE": "MOTION FOR NEW TRIAL ON JUDGMENT FOLLOWING CITATION BY PUBLICATION"
+    },
+    {
+        "RULE": "329a",
+        "TITLE": "COUNTY COURT CASES"
+    },
+    {
+        "RULE": "329b",
+        "TITLE": "TIME FOR FILING MOTIONS"
+    },
+    {
+        "RULE": "330",
+        "TITLE": "RULES OF PRACTICE AND PROCEDURE IN CERTAIN DISTRICT COURTS"
+    },
+    {
+        "RULE": "500",
+        "TITLE": "GENERAL RULES"
+    },
+    {
+        "RULE": "501",
+        "TITLE": "CITATION AND SERVICE"
+    },
+    {
+        "RULE": "502",
+        "TITLE": "INSTITUTION OF SUIT"
+    },
+    {
+        "RULE": "503",
+        "TITLE": "DEFAULT JUDGMENT; PRE-TRIAL MATTERS; TRIAL"
+    },
+    {
+        "RULE": "504",
+        "TITLE": "JURY"
+    },
+    {
+        "RULE": "505",
+        "TITLE": "JUDGMENT; NEW TRIAL"
+    },
+    {
+        "RULE": "506",
+        "TITLE": "APPEAL"
+    },
+    {
+        "RULE": "507",
+        "TITLE": " ADMINISTRATIVE RULES FOR JUDGES AND COURT PERSONNEL"
+    },
+    {
+        "RULE": "508",
+        "TITLE": "DEBT CLAIM CASES"
+    },
+    {
+        "RULE": "509",
+        "TITLE": "REPAIR AND REMEDY CASES"
+    },
+    {
+        "RULE": "510",
+        "TITLE": "EVICTION CASES"
+    },
+    {
+        "RULE": "592",
+        "TITLE": "APPLICATION FOR WRIT OF ATTACHMENT AND ORDER"
+    },
+    {
+        "RULE": "592a",
+        "TITLE": "BOND FOR ATTACHMENT"
+    },
+    {
+        "RULE": "592b",
+        "TITLE": "FORM OF ATTACHMENT BOND"
+    },
+    {
+        "RULE": "593",
+        "TITLE": "REQUISITES FOR WRIT"
+    },
+    {
+        "RULE": "594",
+        "TITLE": "FORM OF WRIT"
+    },
+    {
+        "RULE": "595",
+        "TITLE": "SEVERAL WRITS"
+    },
+    {
+        "RULE": "596",
+        "TITLE": "DELIVERY OF WRIT"
+    },
+    {
+        "RULE": "597",
+        "TITLE": "DUTY OF OFFICER"
+    },
+    {
+        "RULE": "598",
+        "TITLE": "LEVY, HOW MADE"
+    },
+    {
+        "RULE": "598a",
+        "TITLE": "SERVICE OF WRIT ON DEFENDANT"
+    },
+    {
+        "RULE": "599",
+        "TITLE": "DEFENDANT MAY REPLEVY"
+    },
+    {
+        "RULE": "600",
+        "TITLE": "SALE OF PERISHABLE PROPERTY"
+    },
+    {
+        "RULE": "601",
+        "TITLE": "TO PROTECT INTERESTS"
+    },
+    {
+        "RULE": "602",
+        "TITLE": "BOND OF APPLICANT FOR SALE"
+    },
+    {
+        "RULE": "603",
+        "TITLE": "PROCEDURE FOR SALE"
+    },
+    {
+        "RULE": "604",
+        "TITLE": "RETURN OF SALE"
+    },
+    {
+        "RULE": "605",
+        "TITLE": "JUDGE MAY MAKE NECESSARY ORDERS"
+    },
+    {
+        "RULE": "606",
+        "TITLE": "RETURN OF WRIT"
+    },
+    {
+        "RULE": "607",
+        "TITLE": "REPORT OF DISPOSITION OF PROPERTY"
+    },
+    {
+        "RULE": "608",
+        "TITLE": "DISSOLUTION OR MODIFICATION OF WRIT OF ATTACHMENT .."
+    },
+    {
+        "RULE": "609",
+        "TITLE": "AMENDMENT"
+    },
+    {
+        "RULE": "610",
+        "TITLE": "APPLICATION FOR DISTRESS WARRANT AND ORDER"
+    },
+    {
+        "RULE": "611",
+        "TITLE": "BOND FOR DISTRESS WARRANT"
+    },
+    {
+        "RULE": "612",
+        "TITLE": "REQUISITES FOR WARRANT"
+    },
+    {
+        "RULE": "613",
+        "TITLE": "SERVICE OF WARRANT ON DEFENDANT"
+    },
+    {
+        "RULE": "614",
+        "TITLE": "DEFENDANT MAY REPLEVY"
+    },
+    {
+        "RULE": "614a",
+        "TITLE": "DISSOLUTION OR MODIFICATION OF DISTRESS WARRANT"
+    },
+    {
+        "RULE": "615",
+        "TITLE": "SALE OF PERISHABLE PROPERTY"
+    },
+    {
+        "RULE": "616",
+        "TITLE": "TO PROTECT INTERESTS"
+    },
+    {
+        "RULE": "617",
+        "TITLE": "PROCEDURE FOR SALE"
+    },
+    {
+        "RULE": "618",
+        "TITLE": "RETURN OF SALE"
+    },
+    {
+        "RULE": "619",
+        "TITLE": "CITATION FOR DEFENDANT"
+    },
+    {
+        "RULE": "620",
+        "TITLE": "PETITION"
+    },
+    {
+        "RULE": "621",
+        "TITLE": "ENFORCEMENT OF JUDGMENT"
+    },
+    {
+        "RULE": "621a",
+        "TITLE": "DISCOVERY AND ENFORCEMENT OF JUDGMENT"
+    },
+    {
+        "RULE": "622",
+        "TITLE": "EXECUTION"
+    },
+    {
+        "RULE": "623",
+        "TITLE": "ON DEATH OF EXECUTOR"
+    },
+    {
+        "RULE": "624",
+        "TITLE": "ON DEATH OF NOMINAL PLAINTIFF"
+    },
+    {
+        "RULE": "625",
+        "TITLE": "ON MONEY OF DECEASED"
+    },
+    {
+        "RULE": "626",
+        "TITLE": "ON PROPERTY OF DECEASED"
+    },
+    {
+        "RULE": "627",
+        "TITLE": "TIME FOR ISSUANCE"
+    },
+    {
+        "RULE": "628",
+        "TITLE": "EXECUTION WITHIN THIRTY DAYS"
+    },
+    {
+        "RULE": "629",
+        "TITLE": "REQUISITES OF EXECUTION"
+    },
+    {
+        "RULE": "630",
+        "TITLE": "EXECUTION ON JUDGMENT FOR MONEY"
+    },
+    {
+        "RULE": "631",
+        "TITLE": "EXECUTION FOR SALE OF PARTICULAR PROPERTY"
+    },
+    {
+        "RULE": "632",
+        "TITLE": "EXECUTION FOR DELIVERY OF CERTAIN PROPERTY"
+    },
+    {
+        "RULE": "633",
+        "TITLE": "EXECUTION FOR POSSESSION OR VALUE OF PERSONAL PROPERTY"
+    },
+    {
+        "RULE": "634",
+        "TITLE": "EXECUTION SUPERSEDED"
+    },
+    {
+        "RULE": "635",
+        "TITLE": "STAY OF EXECUTION IN JUSTICE COURT"
+    },
+    {
+        "RULE": "636",
+        "TITLE": "INDORSEMENTS BY OFFICER"
+    },
+    {
+        "RULE": "637",
+        "TITLE": "LEVY OF EXECUTION"
+    },
+    {
+        "RULE": "638",
+        "TITLE": "PROPERTY NOT TO BE DESIGNATED"
+    },
+    {
+        "RULE": "639",
+        "TITLE": "LEVY"
+    },
+    {
+        "RULE": "640",
+        "TITLE": "LEVY ON STOCK RUNNING AT LARGE"
+    },
+    {
+        "RULE": "641",
+        "TITLE": "LEVY ON SHARES OF STOCK"
+    },
+    {
+        "RULE": "643",
+        "TITLE": "LEVY ON GOODS PLEDGED OR MORTGAGED"
+    },
+    {
+        "RULE": "644",
+        "TITLE": "MAY GIVE DELIVERY BOND"
+    },
+    {
+        "RULE": "645",
+        "TITLE": "PROPERTY MAY BE SOLD BY DEFENDANT"
+    },
+    {
+        "RULE": "646",
+        "TITLE": "FORFEITED DELIVERY BOND"
+    },
+    {
+        "RULE": "646a",
+        "TITLE": "SALE OF REAL PROPERTY"
+    },
+    {
+        "RULE": "647",
+        "TITLE": "NOTICE OF SALE OF REAL ESTATE"
+    },
+    {
+        "RULE": "648",
+        "TITLE": "\"COURTHOUSE DOOR\" DEFINED"
+    },
+    {
+        "RULE": "649",
+        "TITLE": "SALE OF PERSONAL PROPERTY"
+    },
+    {
+        "RULE": "650",
+        "TITLE": "NOTICE OF SALE OF PERSONAL PROPERTY"
+    },
+    {
+        "RULE": "651",
+        "TITLE": "WHEN EXECUTION IS NOT SATISFIED"
+    },
+    {
+        "RULE": "652",
+        "TITLE": "PURCHASER FAILING TO COMPLY"
+    },
+    {
+        "RULE": "653",
+        "TITLE": "RESALE OF PROPERTY"
+    },
+    {
+        "RULE": "654",
+        "TITLE": "RETURN OF EXECUTION"
+    },
+    {
+        "RULE": "655",
+        "TITLE": "RETURN OF EXECUTION BY MAIL"
+    },
+    {
+        "RULE": "656",
+        "TITLE": "EXECUTION DOCKET"
+    },
+    {
+        "RULE": "657",
+        "TITLE": "JUDGMENT FINAL FOR GARNISHMENT"
+    },
+    {
+        "RULE": "658",
+        "TITLE": "APPLICATION FOR WRIT OF GARNISHMENT AND ORDER"
+    },
+    {
+        "RULE": "658a",
+        "TITLE": "BOND FOR GARNISHMENT"
+    },
+    {
+        "RULE": "659",
+        "TITLE": "CASE DOCKETED"
+    },
+    {
+        "RULE": "661",
+        "TITLE": "FORM OF WRIT"
+    },
+    {
+        "RULE": "662",
+        "TITLE": "DELIVERY OF WRIT"
+    },
+    {
+        "RULE": "663",
+        "TITLE": "EXECUTION AND RETURN OF WRIT"
+    },
+    {
+        "RULE": "663a",
+        "TITLE": "SERVICE OF WRIT AND OTHER DOCUMENTS ON DEFENDANT"
+    },
+    {
+        "RULE": "664",
+        "TITLE": "DEFENDANT MAY REPLEVY"
+    },
+    {
+        "RULE": "664a",
+        "TITLE": "DISSOLUTION OR MODIFICATION OF WRIT OF GARNISHMENT"
+    },
+    {
+        "RULE": "665",
+        "TITLE": "ANSWER TO WRIT"
+    },
+    {
+        "RULE": "666",
+        "TITLE": "GARNISHEE DISCHARGED"
+    },
+    {
+        "RULE": "667",
+        "TITLE": "JUDGMENT BY DEFAULT"
+    },
+    {
+        "RULE": "668",
+        "TITLE": "JUDGMENT WHEN GARNISHEE IS INDEBTED"
+    },
+    {
+        "RULE": "669",
+        "TITLE": "JUDGMENT FOR EFFECTS"
+    },
+    {
+        "RULE": "670",
+        "TITLE": "REFUSAL TO DELIVER EFFECTS"
+    },
+    {
+        "RULE": "672",
+        "TITLE": "SALE OF EFFECTS"
+    },
+    {
+        "RULE": "673",
+        "TITLE": "MAY TRAVERSE ANSWER"
+    },
+    {
+        "RULE": "674",
+        "TITLE": "TRIAL OF ISSUE"
+    },
+    {
+        "RULE": "675",
+        "TITLE": "DOCKET AND NOTICE"
+    },
+    {
+        "RULE": "676",
+        "TITLE": "ISSUE TRIED IN OTHER CASES"
+    },
+    {
+        "RULE": "677",
+        "TITLE": "COSTS"
+    },
+    {
+        "RULE": "678",
+        "TITLE": "GARNISHEE DISCHARGED ON PROOF"
+    },
+    {
+        "RULE": "679",
+        "TITLE": "AMENDMENT"
+    },
+    {
+        "RULE": "679a",
+        "TITLE": "TURNOVER UNDER CIVIL PRACTICE AND REMEDEIS § 31.002"
+    },
+    {
+        "RULE": "679b",
+        "TITLE": "PERSONAL PROPERTY EXEMPTIONS IN POST-JUDGMENT PROCEEDINGS"
+    },
+    {
+        "RULE": "680",
+        "TITLE": "TEMPORARY RESTRAINING ORDER"
+    },
+    {
+        "RULE": "681",
+        "TITLE": "TEMPORARY INJUNCTIONS: NOTICE"
+    },
+    {
+        "RULE": "682",
+        "TITLE": "SWORN PETITION"
+    },
+    {
+        "RULE": "683",
+        "TITLE": "FORM AND SCOPE OF INJUNCTION OR RESTRAINING ORDER"
+    },
+    {
+        "RULE": "684",
+        "TITLE": "APPLICANT'S BOND"
+    },
+    {
+        "RULE": "685",
+        "TITLE": "FILING AND DOCKETING"
+    },
+    {
+        "RULE": "686",
+        "TITLE": "CITATION"
+    },
+    {
+        "RULE": "687",
+        "TITLE": "REQUISITES OF WRIT"
+    },
+    {
+        "RULE": "688",
+        "TITLE": "CLERK TO ISSUE WRIT"
+    },
+    {
+        "RULE": "689",
+        "TITLE": "SERVICE AND RETURN"
+    },
+    {
+        "RULE": "690",
+        "TITLE": "THE ANSWER"
+    },
+    {
+        "RULE": "691",
+        "TITLE": "BOND ON DISSOLUTION"
+    },
+    {
+        "RULE": "692",
+        "TITLE": "DISOBEDIENCE"
+    },
+    {
+        "RULE": "693",
+        "TITLE": "PRINCIPLES OF EQUITY APPLICABLE"
+    },
+    {
+        "RULE": "693a",
+        "TITLE": "BOND IN DIVORCE CASE"
+    },
+    {
+        "RULE": "694",
+        "TITLE": "NO MANDAMUS WITHOUT NOTICE"
+    },
+    {
+        "RULE": "695",
+        "TITLE": "NO RECEIVER OF IMMOVABLE PROPERTY APPOINTED WITHOUT NOTICE"
+    },
+    {
+        "RULE": "695a",
+        "TITLE": "BOND, AND BOND IN DIVORCE CASES"
+    },
+    {
+        "RULE": "696",
+        "TITLE": "APPLICATION FOR WRIT OF SEQUESTRATION AND ORDER"
+    },
+    {
+        "RULE": "697",
+        "TITLE": "PETITION"
+    },
+    {
+        "RULE": "698",
+        "TITLE": "BOND FOR SEQUESTRATION"
+    },
+    {
+        "RULE": "699",
+        "TITLE": "REQUISITES OF WRIT"
+    },
+    {
+        "RULE": "700",
+        "TITLE": "AMENDMENT"
+    },
+    {
+        "RULE": "700a",
+        "TITLE": "SERVICE OF WRIT ON DEFENDANT"
+    },
+    {
+        "RULE": "701",
+        "TITLE": "DEFENDANT MAY REPLEVY"
+    },
+    {
+        "RULE": "702",
+        "TITLE": "BOND FOR PERSONAL PROPERTY"
+    },
+    {
+        "RULE": "703",
+        "TITLE": "BOND FOR REAL ESTATE"
+    },
+    {
+        "RULE": "704",
+        "TITLE": "RETURN OF BOND AND ENTRY OF JUDGMENT"
+    },
+    {
+        "RULE": "705",
+        "TITLE": "DEFENDANT MAY RETURN SEQUESTERED PROPERTY"
+    },
+    {
+        "RULE": "706",
+        "TITLE": "DISPOSITION OF THE PROPERTY BY OFFICER"
+    },
+    {
+        "RULE": "707",
+        "TITLE": "EXECUTION"
+    },
+    {
+        "RULE": "708",
+        "TITLE": "PLAINTIFF MAY REPLEVY"
+    },
+    {
+        "RULE": "709",
+        "TITLE": "WHEN BOND FORFEITED"
+    },
+    {
+        "RULE": "710",
+        "TITLE": "SALE OF PERISHABLE GOODS"
+    },
+    {
+        "RULE": "711",
+        "TITLE": "ORDER OF SALE FOR"
+    },
+    {
+        "RULE": "712",
+        "TITLE": "RETURN OF ORDER"
+    },
+    {
+        "RULE": "712a",
+        "TITLE": "DISSOLUTION OR MODIFICATION OF WRIT OF SEQUESTRATION"
+    },
+    {
+        "RULE": "713",
+        "TITLE": "SALE ON DEBT NOT DUE"
+    },
+    {
+        "RULE": "714",
+        "TITLE": "PURCHASER'S BOND"
+    },
+    {
+        "RULE": "715",
+        "TITLE": "RETURN OF BOND"
+    },
+    {
+        "RULE": "716",
+        "TITLE": "RECOVERY ON BOND"
+    },
+    {
+        "RULE": "717",
+        "TITLE": "CLAIMANT MUST MAKE AFFIDAVIT"
+    },
+    {
+        "RULE": "718",
+        "TITLE": "PROPERTY DELIVERED TO CLAIMANT"
+    },
+    {
+        "RULE": "719",
+        "TITLE": "BOND"
+    },
+    {
+        "RULE": "720",
+        "TITLE": "RETURN OF BOND"
+    },
+    {
+        "RULE": "721",
+        "TITLE": "OUT-COUNTY LEVY"
+    },
+    {
+        "RULE": "722",
+        "TITLE": "RETURN OF ORIGINAL WRIT"
+    },
+    {
+        "RULE": "723",
+        "TITLE": "DOCKETING CAUSE"
+    },
+    {
+        "RULE": "724",
+        "TITLE": "ISSUE MADE UP"
+    },
+    {
+        "RULE": "725",
+        "TITLE": "JUDGMENT BY DEFAULT"
+    },
+    {
+        "RULE": "726",
+        "TITLE": "JUDGMENT OF NON-SUIT"
+    },
+    {
+        "RULE": "727",
+        "TITLE": "PROCEEDINGS"
+    },
+    {
+        "RULE": "728",
+        "TITLE": "BURDEN OF PROOF"
+    },
+    {
+        "RULE": "729",
+        "TITLE": "COPY OF WRIT EVIDENCE"
+    },
+    {
+        "RULE": "730",
+        "TITLE": "FAILURE TO ESTABLISH TITLE"
+    },
+    {
+        "RULE": "731",
+        "TITLE": "EXECUTION SHALL ISSUE"
+    },
+    {
+        "RULE": "732",
+        "TITLE": "RETURN OF PROPERTY BY CLAIMANT"
+    },
+    {
+        "RULE": "733",
+        "TITLE": "CLAIM IS A RELEASE OF DAMAGES"
+    },
+    {
+        "RULE": "734",
+        "TITLE": "LEVY ON OTHER PROPERTY"
+    },
+    {
+        "RULE": "735",
+        "TITLE": "FORECLOSURES REQUIRING A COURT ORDER"
+    },
+    {
+        "RULE": "736",
+        "TITLE": "EXPEDITED ORDER PROCEEDING"
+    },
+    {
+        "RULE": "756",
+        "TITLE": "PETITION"
+    },
+    {
+        "RULE": "757",
+        "TITLE": "CITATION AND SERVICE"
+    },
+    {
+        "RULE": "758",
+        "TITLE": "WHERE DEFENDANT IS UNKNOWN OR RESIDENCE IS UNKNOWN"
+    },
+    {
+        "RULE": "759",
+        "TITLE": "JUDGMENT WHERE DEFENDANT CITED BY PUBLICATION"
+    },
+    {
+        "RULE": "760",
+        "TITLE": "COURT SHALL DETERMINE, WHAT"
+    },
+    {
+        "RULE": "761",
+        "TITLE": "APPOINTMENT OF COMMISSIONERS"
+    },
+    {
+        "RULE": "762",
+        "TITLE": "WRIT OF PARTITION"
+    },
+    {
+        "RULE": "763",
+        "TITLE": "SERVICE OF WRIT OF PARTITION"
+    },
+    {
+        "RULE": "764",
+        "TITLE": "MAY APPOINT SURVEYOR"
+    },
+    {
+        "RULE": "765",
+        "TITLE": "RETURN OF WRIT"
+    },
+    {
+        "RULE": "766",
+        "TITLE": "SHALL PROCEED TO PARTITION"
+    },
+    {
+        "RULE": "767",
+        "TITLE": "MAY CAUSE SURVEY"
+    },
+    {
+        "RULE": "768",
+        "TITLE": "SHALL DIVIDE REAL ESTATE"
+    },
+    {
+        "RULE": "769",
+        "TITLE": "REPORT OF COMMISSIONERS"
+    },
+    {
+        "RULE": "770",
+        "TITLE": "PROPERTY INCAPABLE OF DIVISION"
+    },
+    {
+        "RULE": "771",
+        "TITLE": "OBJECTIONS TO REPORT"
+    },
+    {
+        "RULE": "772",
+        "TITLE": "PROCEDURE"
+    },
+    {
+        "RULE": "773",
+        "TITLE": "VALUE ASCERTAINED"
+    },
+    {
+        "RULE": "774",
+        "TITLE": "DECREE OF COURT EXECUTED"
+    },
+    {
+        "RULE": "775",
+        "TITLE": "PROPERTY SOLD"
+    },
+    {
+        "RULE": "776",
+        "TITLE": "CONSTRUCTION"
+    },
+    {
+        "RULE": "777",
+        "TITLE": "PLEADING AND PRACTICE"
+    },
+    {
+        "RULE": "778",
+        "TITLE": "COSTS"
+    },
+    {
+        "RULE": "779",
+        "TITLE": "JOINDER OF PARTIES"
+    },
+    {
+        "RULE": "780",
+        "TITLE": "CITATION TO ISSUE"
+    },
+    {
+        "RULE": "781",
+        "TITLE": "PROCEEDING AS IN CIVIL CASES"
+    },
+    {
+        "RULE": "782",
+        "TITLE": "REMEDY CUMULATIVE"
+    },
+    {
+        "RULE": "783",
+        "TITLE": "REQUISITES OF PETITION"
+    },
+    {
+        "RULE": "784",
+        "TITLE": "THE POSSESSOR SHALL BE DEFENDANT"
+    },
+    {
+        "RULE": "785",
+        "TITLE": "MAY JOIN AS DEFENDANTS, WHEN"
+    },
+    {
+        "RULE": "786",
+        "TITLE": "WARRANTOR, ETC., MAY BE MADE A PARTY"
+    },
+    {
+        "RULE": "787",
+        "TITLE": "LANDLORD MAY BECOME DEFENDANT"
+    },
+    {
+        "RULE": "788",
+        "TITLE": "MAY FILE PLEA OF \"NOT GUILTY\" ONLY"
+    },
+    {
+        "RULE": "789",
+        "TITLE": "PROOF UNDER SUCH PLEA"
+    },
+    {
+        "RULE": "790",
+        "TITLE": "ANSWER TAKEN AS ADMITTING POSSESSION"
+    },
+    {
+        "RULE": "791",
+        "TITLE": "MAY DEMAND ABSTRACT OF TITLE"
+    },
+    {
+        "RULE": "792",
+        "TITLE": "TIME TO FILE ABSTRACT"
+    },
+    {
+        "RULE": "793",
+        "TITLE": "ABSTRACT SHALL STATE, WHAT"
+    },
+    {
+        "RULE": "794",
+        "TITLE": "AMENDED ABSTRACT"
+    },
+    {
+        "RULE": "795",
+        "TITLE": "RULES IN OTHER CASES OBSERVED"
+    },
+    {
+        "RULE": "796",
+        "TITLE": "SURVEYOR APPOINTED, ETC."
+    },
+    {
+        "RULE": "797",
+        "TITLE": "SURVEY UNNECESSARY, WHEN"
+    },
+    {
+        "RULE": "798",
+        "TITLE": "COMMON SOURCE OF TITLE"
+    },
+    {
+        "RULE": "799",
+        "TITLE": "JUDGMENT BY DEFAULT"
+    },
+    {
+        "RULE": "800",
+        "TITLE": "PROOF EX PARTE"
+    },
+    {
+        "RULE": "801",
+        "TITLE": "WHEN DEFENDANT CLAIMS PART ONLY"
+    },
+    {
+        "RULE": "802",
+        "TITLE": "WHEN PLAINTIFF PROVES PART"
+    },
+    {
+        "RULE": "803",
+        "TITLE": "MAY RECOVER A PART"
+    },
+    {
+        "RULE": "804",
+        "TITLE": "THE JUDGMENT"
+    },
+    {
+        "RULE": "805",
+        "TITLE": "DAMAGES"
+    },
+    {
+        "RULE": "806",
+        "TITLE": "CLAIM FOR IMPROVEMENTS"
+    },
+    {
+        "RULE": "807",
+        "TITLE": "JUDGMENT WHEN CLAIM FOR IMPROVEMENTS IS MADE"
+    },
+    {
+        "RULE": "808",
+        "TITLE": "THESE RULES SHALL NOT GOVERN, WHEN"
+    },
+    {
+        "RULE": "809",
+        "TITLE": "THESE RULES SHALL NOT GOVERN, WHEN"
+    },
+    {
+        "RULE": "810",
+        "TITLE": "REQUISITES OF PLEADINGS"
+    },
+    {
+        "RULE": "811",
+        "TITLE": "SERVICE BY PUBLICATION IN ACTIONS UNDER SECTION 17.003, CIVIL PRACTICE AND REMEDIES CODE"
+    },
+    {
+        "RULE": "812",
+        "TITLE": "NO JUDGMENT BY DEFAULT"
+    },
+    {
+        "RULE": "813",
+        "TITLE": "SUIT TO EXTINGUISH LIEN"
+    },
+    {
+        "RULE": "814",
+        "TITLE": "EFFECTIVE DATE"
+    },
+    {
+        "RULE": "815",
+        "TITLE": "SUBSTANTIVE RIGHTS UNAFFECTED"
+    },
+    {
+        "RULE": "816",
+        "TITLE": "JURISDICTION AND VENUE UNAFFECTED"
+    },
+    {
+        "RULE": "818",
+        "TITLE": "REFERENCE TO FORMER STATUTES"
+    },
+    {
+        "RULE": "819",
+        "TITLE": "PROCEDURE CONTINUED"
+    },
+    {
+        "RULE": "820",
+        "TITLE": "WORKERS' COMPENSATION LAW"
+    },
+    {
+        "RULE": "821",
+        "TITLE": "PRIOR COURT RULES REPEALED"
+    },
+    {
+        "RULE": "822",
+        "TITLE": "TITLE"
+    }
+]
