@@ -1,0 +1,4315 @@
+{
+    "count": 10,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 349581,
+            "url": "https://api.case.law/v1/cases/349581/",
+            "name": "CHRISTY-FOLTZ, INC., Plaintiff-Appellant, v. SAFETY MUTUAL CASUALTY CORPORATION, n/k/a Safety National Casualty Corporation, Defendant-Appellee (Bituminous Casualty Corporation, Defendant)",
+            "name_abbreviation": "Christy-Foltz, Inc. v. Safety Mutual Casualty Corp.",
+            "decision_date": "2000-01-07",
+            "docket_number": "No. 4—99—0185",
+            "first_page": "686",
+            "last_page": "693",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "309 Ill. App. 3d 686"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066111782/",
+                "volume_number": "309",
+                "barcode": "32044066111782"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "623 N.E.2d 785",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "791"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "252 Ill. App. 3d 485",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2965760
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "493"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "600 N.E.2d 866",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "869"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "235 Ill. App. 3d 103",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5784728
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "106"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "692 N.E.2d 1196",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "1199"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "181 Ill. 2d 436",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        821405
+                    ],
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "441"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "599 N.E.2d 1338",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "1345"
+                        },
+                        {
+                            "page": "1345"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "234 Ill. App. 3d 340",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5188378
+                    ],
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "349"
+                        },
+                        {
+                            "page": "350"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "676 N.E.2d 1379",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "1382"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "286 Ill. App. 3d 946",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        1544499
+                    ],
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "951"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "553 N.E.2d 301",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "page": "304"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "135 Ill. 2d 353",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3256828
+                    ],
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "page": "358"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "611 N.E.2d 38",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "41"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "242 Ill. App. 3d 758",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5121424
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "762"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "645 N.E.2d 345",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "347"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "268 Ill. App. 3d 932",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        381847
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "935"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "649 N.E.2d 493",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "495"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "271 Ill. App. 3d 843",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        249188
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "845"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "652 N.E.2d 848",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "853"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "273 Ill. App. 3d 292",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        258774
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "299"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "676 N.E.2d 1295",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 6,
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "1301"
+                        },
+                        {
+                            "page": "1301"
+                        },
+                        {
+                            "page": "1298",
+                            "parenthetical": "quoting a contract"
+                        },
+                        {
+                            "page": "1304"
+                        },
+                        {
+                            "page": "1299"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "175 Ill. 2d 201",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        295806
+                    ],
+                    "weight": 7,
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "212-13"
+                        },
+                        {
+                            "page": "212-13"
+                        },
+                        {
+                            "page": "205"
+                        },
+                        {
+                            "page": "218"
+                        },
+                        {
+                            "page": "208"
+                        },
+                        {
+                            "page": "210"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "1995 Ill. Laws 7",
+                    "category": "laws:leg_session",
+                    "reporter": "Ill. Laws",
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "585 N.E.2d 1023",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 3,
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "1027-28"
+                        },
+                        {
+                            "page": "1027-28"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "146 Ill. 2d 155",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5597125
+                    ],
+                    "weight": 3,
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "165"
+                        },
+                        {
+                            "page": "165"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/309/686/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/349581/Christy-Foltz,%20Inc.%20v.%20Safety%20Mutual%20Casualty%20Corp.,%20309%20Ill.%20App.%203d%20686%20(2000).pdf",
+            "preview": [
+                "Suit for Negligence and Structural Work Act Violations: <em class='search_highlight'>Peoria</em> County Case No. 93 — L—108\nOn June 27,",
+                "1995, Bohanan filed a common-law action against LISI in <em class='search_highlight'>Peoria</em> County case No. 93 — L—108, alleging",
+                "In March 1996, the <em class='search_highlight'>Peoria</em> County circuit court found Christy-Foltz waived the Kotecki cap for the purposes",
+                "State Farm Mutual Automobile <em class='search_highlight'>Insurance</em> Co. v.",
+                "Northbrook Property & Casualty <em class='search_highlight'>Insurance</em> Co., 235 Ill."
+            ],
+            "analysis": {
+                "word_count": 2871,
+                "random_bucket": 36703,
+                "sha256": "b5e14213e823d5b643225bb15161e16bb36c982af0d9344249f5c31eb4f76d7c",
+                "ocr_confidence": 0.796,
+                "char_count": 18616,
+                "random_id": 1134137183,
+                "pagerank": {
+                    "percentile": 0.4476171390764634,
+                    "raw": 7.549241877716935e-08
+                },
+                "cardinality": 739,
+                "simhash": "1:f3bde1fefdc5bc0e"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 186472,
+            "url": "https://api.case.law/v1/cases/186472/",
+            "name": "O'FALLON SCHOOL DISTRICT No. 90, Appellant, v. THE INDUSTRIAL COMMISSION et al. (Karen Kenna, Appellee)",
+            "name_abbreviation": "O'Fallon School District No. 90 v. Industrial Commission",
+            "decision_date": "2000-05-05",
+            "docket_number": "No. 5—99—0368WC",
+            "first_page": "413",
+            "last_page": "418",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "313 Ill. App. 3d 413"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066191925/",
+                "volume_number": "313",
+                "barcode": "32044066191925"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "640 N.E.2d 1",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "3"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "266 Ill. App. 3d 740",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        887237
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "742"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "627 N.E.2d 1270",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "1274"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "255 Ill. App. 3d 925",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2990224
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "930"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "710 N.E.2d 837",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1999,
+                    "pin_cites": [
+                        {
+                            "page": "842"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "304 Ill. App. 3d 875",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        564549
+                    ],
+                    "year": 1999,
+                    "pin_cites": [
+                        {
+                            "page": "882"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "582 N.E.2d 240",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "242"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "221 Ill. App. 3d 501",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5797197
+                    ],
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "503"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "515 N.E.2d 202",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1987,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "161 Ill. App. 3d 704",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3467893
+                    ],
+                    "year": 1987,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "405 N.E.2d 796",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "81 Ill. 2d 38",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5480756
+                    ],
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "447 N.E.2d 828",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1983,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "95 Ill. 2d 268",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3111922
+                    ],
+                    "year": 1983,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "601 N.E.2d 1339",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "1344"
+                        },
+                        {
+                            "page": "1344"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "235 Ill. App. 3d 779",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5785276
+                    ],
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "786-87"
+                        },
+                        {
+                            "page": "787"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "635 N.E.2d 134",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "137"
+                        },
+                        {
+                            "page": "137"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "262 Ill. App. 3d 655",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2851048
+                    ],
+                    "weight": 2,
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "659"
+                        },
+                        {
+                            "page": "659"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "541 N.E.2d 665",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 3,
+                    "year": 1989,
+                    "pin_cites": [
+                        {
+                            "page": "667"
+                        },
+                        {
+                            "page": "667"
+                        },
+                        {
+                            "page": "667"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "129 Ill. 2d 52",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5567377
+                    ],
+                    "weight": 3,
+                    "year": 1989,
+                    "pin_cites": [
+                        {
+                            "page": "57"
+                        },
+                        {
+                            "page": "58"
+                        },
+                        {
+                            "page": "59"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "606 N.E.2d 598",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "599"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "238 Ill. App. 3d 445",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5155325
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "446-47"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "370 N.E.2d 548",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1977,
+                    "pin_cites": [
+                        {
+                            "page": "550"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "69 Ill. 2d 120",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5456306
+                    ],
+                    "year": 1977,
+                    "pin_cites": [
+                        {
+                            "page": "124"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/313/413/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/186472/O'Fallon%20School%20District%20No.%2090%20v.%20Industrial%20Commission,%20313%20Ill.%20App.%203d%20413%20(2000).pdf",
+            "preview": [
+                "the morning of May 8, 1990, claimant was assigned to hall duty, which meant she was responsible for <em class='search_highlight'>insuring</em>",
+                "This meant claimant was responsible for <em class='search_highlight'>insuring</em> the safety of students and teachers in the hallways.",
+                "Comm’n, 95 Ill. 2d 268, 447 N.E.2d 828 (1983)) or picking up fallen papers from the floor (see Greater <em class='search_highlight'>Peoria</em>"
+            ],
+            "analysis": {
+                "word_count": 1725,
+                "random_bucket": 52316,
+                "sha256": "8f8e9ec125603a45733788bfff97f4a2e4c717aafbf7d576f238ff84ecba4fed",
+                "ocr_confidence": 0.756,
+                "char_count": 10342,
+                "random_id": 1863109724,
+                "pagerank": {
+                    "percentile": 0.448284742859603,
+                    "raw": 7.562531491158196e-08
+                },
+                "cardinality": 589,
+                "simhash": "1:9fbd34d6aed77a88"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 140068,
+            "url": "https://api.case.law/v1/cases/140068/",
+            "name": "PALOS ELECTRIC COMPANY, Appellant, v. THE INDUSTRIAL COMMISSION et al. (Sentry Claims Service, a Department of Sentry Insurance, Appellee)",
+            "name_abbreviation": "Palos Electric Co. v. Industrial Commission",
+            "decision_date": "2000-05-30",
+            "docket_number": "No. 1—99—0323WC",
+            "first_page": "920",
+            "last_page": "931",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "314 Ill. App. 3d 920"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066186883/",
+                "volume_number": "314",
+                "barcode": "32044066186883"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "176 Ill. App. 3d 607",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3589455
+                    ],
+                    "year": 1988,
+                    "pin_cites": [
+                        {
+                            "page": "611"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "115 Ill. 2d 524",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3179453
+                    ],
+                    "year": 1987,
+                    "pin_cites": [
+                        {
+                            "page": "531"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "231 Ill. App. 3d 734",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5201760
+                    ],
+                    "year": 1992,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "176 Ill. App. 3d 186",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3588631
+                    ],
+                    "year": 1988,
+                    "pin_cites": [
+                        {
+                            "page": "193"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "50 Ill. 2d 342",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2911517
+                    ],
+                    "year": 1972,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "81 Ill. 2d 416",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5480640
+                    ],
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "148 Ill. App. 3d 48",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3643890
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "53"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "86 Ill. 2d 168",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5468317
+                    ],
+                    "weight": 2,
+                    "year": 1981,
+                    "pin_cites": [
+                        {
+                            "page": "173"
+                        },
+                        {
+                            "page": "173"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "58 Ill. 2d 226",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2952836
+                    ],
+                    "year": 1974,
+                    "pin_cites": [
+                        {
+                            "page": "230"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "93 Ill. 2d 144",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3102477
+                    ],
+                    "year": 1982,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "35 Ill. 2d 367",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5379124
+                    ],
+                    "year": 1966,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "101 Ill. 2d 236",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3161050
+                    ],
+                    "year": 1984,
+                    "pin_cites": [
+                        {
+                            "page": "244"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "263 Ill. App. 3d 835",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5366982
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "843"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "256 Ill. App. 3d 1008",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5384477
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "1015-16"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "133 Ill. App. 3d 119",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3529793
+                    ],
+                    "weight": 2,
+                    "year": 1985,
+                    "pin_cites": [
+                        {
+                            "page": "128"
+                        },
+                        {
+                            "page": "128"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "181 Ill. App. 3d 827",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        8499320
+                    ],
+                    "year": 1989,
+                    "pin_cites": [
+                        {
+                            "page": "829"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "199 Ill. App. 3d 990",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2466065
+                    ],
+                    "weight": 2,
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "page": "996-97"
+                        },
+                        {
+                            "page": "996-97"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "221 Ill. App. 3d 100",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5799669
+                    ],
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "103"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "24 Ill. 2d 270",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2803204
+                    ],
+                    "year": 1962,
+                    "pin_cites": [
+                        {
+                            "page": "273-74",
+                            "parenthetical": "The party challenging the validity of the zoning ordinance bears the burden of proof"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "152 Ill. 2d 504",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5603292
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "All statutes are presumed to be constitutional and the challenging party bears the burden of clearly establishing the statute's unconstitutionality"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "148 Ill. 2d 348",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3283297
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "367",
+                            "parenthetical": "The party challenging the Commerce Commission's order carries the burden of proof"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "177 Ill. 2d 287",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        317112
+                    ],
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "The party challenging the constitutionality of legislation bears the burden of proof and must overcome the presumption of constitutionality"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "215 Ill. App. 3d 284",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5293710
+                    ],
+                    "year": 1991,
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/314/920/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/140068/Palos%20Electric%20Co.%20v.%20Industrial%20Commission,%20314%20Ill.%20App.%203d%20920%20(2000).pdf",
+            "preview": [
+                "Palos forwarded the application to its <em class='search_highlight'>insurer</em>, Sentry Claims Service (Sentry).",
+                "employer by the <em class='search_highlight'>insurer</em> within 30 days after the end of that calendar year.",
+                "The <em class='search_highlight'>insured</em> employer may challenge, in proceedings before the Commission, payments made by the <em class='search_highlight'>insurer</em>",
+                "their <em class='search_highlight'>insureds</em>.",
+                "<em class='search_highlight'>Peoria</em> County Belwood Nursing Home v. Industrial Comm’n, 115 Ill. 2d 524, 531 (1987)."
+            ],
+            "analysis": {
+                "word_count": 4644,
+                "random_bucket": 5205,
+                "sha256": "b4056e2e11d759a15b647439b7be212bc38b931270f805d5d8ed0fbf894a7d1a",
+                "ocr_confidence": 0.759,
+                "char_count": 28428,
+                "random_id": 103617621,
+                "pagerank": {
+                    "percentile": 0.42511263641907987,
+                    "raw": 7.056877948979375e-08
+                },
+                "cardinality": 1032,
+                "simhash": "1:b0ef6082a9eaa0dc"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 415379,
+            "url": "https://api.case.law/v1/cases/415379/",
+            "name": "EAST ST. LOUIS FEDERATION OF TEACHERS, LOCAL 1220, American Federation of Teachers, AFL-CIO, Plaintiff-Appellee, v. THE EAST ST. LOUIS SCHOOL DISTRICT No. 189 FINANCIAL OVERSIGHT PANEL, Defendant-Appellant (The Board of Education of East St. Louis School District No. 189, Defendant-Appellee and Third-Party Plaintiff-Appellee; McGladrey and Pullen/Williams, Adley and Company, JV (MWAC), Defendant; Jed Deets, Regional Superintendent of Schools, St. Clair County, Third-Party Defendant (The State of Illinois et al., Intervenors-Appellants; Geraldine Jenkins, Intervening Plaintiff-Appellee))",
+            "name_abbreviation": "East St. Louis Federation of Teachers v. East St. Louis School District No. 189 Financial Oversight Panel",
+            "decision_date": "2000-03-01",
+            "docket_number": "No. 5—97—0266",
+            "first_page": "987",
+            "last_page": "991",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "311 Ill. App. 3d 987"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066134701/",
+                "volume_number": "311",
+                "barcode": "32044066134701"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "687 N.E.2d 1050",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "1058"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "178 Ill. 2d 399",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        385568
+                    ],
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "411-12"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "464 N.E.2d 811",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1984,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "124 Ill. App. 3d 753",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3428433
+                    ],
+                    "year": 1984,
+                    "pin_cites": [
+                        {
+                            "page": "754"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "88 N.E.2d 477",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1949,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "404 Ill. 136",
+                    "category": "reporters:state",
+                    "reporter": "Ill.",
+                    "case_ids": [
+                        5306806
+                    ],
+                    "year": 1949,
+                    "pin_cites": [
+                        {
+                            "page": "138"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "394 N.E.2d 399",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1979,
+                    "pin_cites": [
+                        {
+                            "page": "402"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "76 Ill. 2d 469",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2984705
+                    ],
+                    "year": 1979,
+                    "pin_cites": [
+                        {
+                            "page": "478"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "607 N.E.2d 1204",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "1209"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "154 Ill. 2d 90",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        4820940
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "102"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "615 N.E.2d 736",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "739"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "155 Ill. 2d 402",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        4810152
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "410"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/311/987/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/415379/East%20St.%20Louis%20Federation%20of%20Teachers%20v.%20East%20St.%20Louis%20School%20District%20No.%20189%20Financial%20Oversight%20Panel,%20311%20Ill.%20App.%203d%20987%20(2000).pdf",
+            "preview": [
+                "Liberty Mutual <em class='search_highlight'>Insurance</em> Co., 154 Ill. 2d 90, 102, 607 N.E.2d 1204, 1209 (1992).",
+                "City of <em class='search_highlight'>Peoria</em>, 76 Ill. 2d 469, 478, 394 N.E.2d 399, 402 (1979)."
+            ],
+            "analysis": {
+                "word_count": 1675,
+                "random_bucket": 13817,
+                "sha256": "1238f5e0da285ac1d9c47318494877cb221f112a079476ed3c04707b5ca06439",
+                "ocr_confidence": 0.772,
+                "char_count": 10548,
+                "random_id": 1889547769,
+                "pagerank": {
+                    "percentile": 0.33132086895061297,
+                    "raw": 5.2996275438192436e-08
+                },
+                "cardinality": 531,
+                "simhash": "1:336bf0dfd9090e44"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 186509,
+            "url": "https://api.case.law/v1/cases/186509/",
+            "name": "GRIFFITH R. JONES et al., Plaintiffs-Appellees, v. UNKNOWN HEIRS OR LEGATEES OF MAYMEE C. FOX et al., Defendants-Appellants",
+            "name_abbreviation": "Jones v. Unknown Heirs or Legatees of Fox",
+            "decision_date": "2000-04-28",
+            "docket_number": "No. 3—99—0512",
+            "first_page": "249",
+            "last_page": "258",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "313 Ill. App. 3d 249"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066191925/",
+                "volume_number": "313",
+                "barcode": "32044066191925"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "655 N.E.2d 933",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "936"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "275 Ill. App. 3d 170",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        906796
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "174"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "1 N.E.2d 846",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1936,
+                    "pin_cites": [
+                        {
+                            "page": "848"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "363 Ill. 197",
+                    "category": "reporters:state",
+                    "reporter": "Ill.",
+                    "case_ids": [
+                        2589175
+                    ],
+                    "year": 1936,
+                    "pin_cites": [
+                        {
+                            "page": "201"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "169 N.E. 237",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.",
+                    "year": 1929,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "337 Ill. 488",
+                    "category": "reporters:state",
+                    "reporter": "Ill.",
+                    "case_ids": [
+                        5233961
+                    ],
+                    "year": 1929,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "401 N.E.2d 560",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "81 Ill. App. 3d 431",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3228569
+                    ],
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "414 N.E.2d 836",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "91 Ill. App. 3d 336",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3147169
+                    ],
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "291 N.E.2d 641",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1972,
+                    "pin_cites": [
+                        {
+                            "page": "644"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "53 Ill. 2d 325",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2925088
+                    ],
+                    "weight": 2,
+                    "year": 1972,
+                    "pin_cites": [
+                        {
+                            "page": "331"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "523 N.E.2d 670",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1988,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "169 Ill. App. 3d 211",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3552285
+                    ],
+                    "year": 1988,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "602 N.E.2d 81",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "analyzing cases and concluding that standard of review of section 2 - 1301(e) ruling is abuse of discretion or a denial of substantial justice"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "235 Ill. App. 3d 1053",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5784931
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "analyzing cases and concluding that standard of review of section 2 - 1301(e) ruling is abuse of discretion or a denial of substantial justice"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "637 N.E.2d 658",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1994,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "265 Ill. App. 3d 406",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        872505
+                    ],
+                    "weight": 2,
+                    "year": 1994,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "668 N.E.2d 149",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1996,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "282 Ill. App. 3d 423",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        159541
+                    ],
+                    "weight": 2,
+                    "year": 1996,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "543 N.E.2d 607",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1989,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "187 Ill. App. 3d 492",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2666872
+                    ],
+                    "year": 1989,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "607 N.E.2d 346",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1993,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "239 Ill. App. 3d 726",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5148612
+                    ],
+                    "year": 1993,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "270 N.E.2d 841",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 3,
+                    "year": 1971,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "48 Ill. 2d 402",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2905004
+                    ],
+                    "weight": 3,
+                    "year": 1971,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "499 N.E.2d 1381",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "and cases cited therein"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "114 Ill. 2d 209",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5542740
+                    ],
+                    "weight": 2,
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "and cases cited therein"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "164 N.E.2d 5",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1960,
+                    "pin_cites": [
+                        {
+                            "page": "9",
+                            "parenthetical": "\"Any petition to vacate an order, judgment, or decree, filed more than thirty days after the entry thereof, even though made to the court that rendered it, constitutes a collateral attack\""
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "18 Ill. 2d 386",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5329195
+                    ],
+                    "year": 1960,
+                    "pin_cites": [
+                        {
+                            "page": "391",
+                            "parenthetical": "\"Any petition to vacate an order, judgment, or decree, filed more than thirty days after the entry thereof, even though made to the court that rendered it, constitutes a collateral attack\""
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "603 N.E.2d 1",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "same"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "235 Ill. App. 3d 1091",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5784842
+                    ],
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "same"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "457 N.E.2d 395",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1983,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "petition under section 2 - 1401 is a collateral proceeding"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "99 Ill. 2d 29",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3163576
+                    ],
+                    "year": 1983,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "petition under section 2 - 1401 is a collateral proceeding"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "526 N.E.2d 1276",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "motions in jury cases"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "660 N.E.2d 107",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "277 Ill. App. 3d 429",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        1172380
+                    ],
+                    "year": 1995,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "579 N.E.2d 824",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1991,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "144 Ill. 2d 232",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5592343
+                    ],
+                    "year": 1991,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "556 N.E.2d 1276",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "distinction between postjudgment motion and section 2 - 1401 petition is critical in determining whether successive attempt to vacate prior judgment is permissible"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "199 Ill. App. 3d 109",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2467791
+                    ],
+                    "weight": 2,
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "distinction between postjudgment motion and section 2 - 1401 petition is critical in determining whether successive attempt to vacate prior judgment is permissible"
+                        },
+                        {
+                            "parenthetical": "motions in jury cases"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "431 N.E.2d 358",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1982,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "distinction between postjudgment motion and section 2 - 1401 petition is critical in determining whether successive attempt to vacate prior judgment is permissible"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "88 Ill. 2d 527",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3082867
+                    ],
+                    "weight": 2,
+                    "year": 1982,
+                    "pin_cites": [
+                        {
+                            "parenthetical": "distinction between postjudgment motion and section 2 - 1401 petition is critical in determining whether successive attempt to vacate prior judgment is permissible"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "411 N.E.2d 1173",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "89 Ill. App. 3d 647",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5541776
+                    ],
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "433 N.E.2d 703",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1982,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "104 Ill. App. 3d 880",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5477617
+                    ],
+                    "year": 1982,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "255 N.E.2d 900",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1970,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "44 Ill. 2d 412",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2888360
+                    ],
+                    "year": 1970,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "422 N.E.2d 610",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1981,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "85 Ill. 2d 253",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5469019
+                    ],
+                    "year": 1981,
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/313/249/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/186509/Jones%20v.%20Unknown%20Heirs%20or%20Legatees%20of%20Fox,%20313%20Ill.%20App.%203d%20249%20(2000).pdf",
+            "preview": [
+                "Michael and Gary Lance, and Tami Dillon brought an action to quiet title to a TVa-acre parcel of land in <em class='search_highlight'>Peoria</em>",
+                "entry from Fox’s personal records which purportedly showed that taxes had been paid on “15 acres” in <em class='search_highlight'>Peoria</em>",
+                "Rockford Mutual <em class='search_highlight'>Insurance</em> Co., 169 Ill. App. 3d 211, 523 N.E.2d 670 (1988)."
+            ],
+            "analysis": {
+                "word_count": 3449,
+                "random_bucket": 17636,
+                "sha256": "ec59d6fcf779a3930cf1a512a21e70f1c0f2042a2defa9f57560f990e534c8ca",
+                "ocr_confidence": 0.749,
+                "char_count": 20415,
+                "random_id": 844645604,
+                "pagerank": {
+                    "percentile": 0.46539049705206015,
+                    "raw": 8.03465364594306e-08
+                },
+                "cardinality": 906,
+                "simhash": "1:bf3e580fdb61ad6c"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 186570,
+            "url": "https://api.case.law/v1/cases/186570/",
+            "name": "DOTTIE'S DRESS SHOE INC., et al., Plaintiffs-Appellees, v. THE VILLAGE OF LYONS et al., Defendants-Appellants",
+            "name_abbreviation": "Dottie's Dress Shoe Inc. v. Village of Lyons",
+            "decision_date": "2000-03-10",
+            "docket_number": "No. 1—98—3118",
+            "first_page": "70",
+            "last_page": "76",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "313 Ill. App. 3d 70"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066191925/",
+                "volume_number": "313",
+                "barcode": "32044066191925"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "103 Ill. 2d 384",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3152711
+                    ],
+                    "year": 1984,
+                    "pin_cites": [
+                        {
+                            "page": "391"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "127 Ill. 2d 230",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5564663
+                    ],
+                    "year": 1989,
+                    "pin_cites": [
+                        {
+                            "page": "238"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "115 Ill. 2d 337",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3179946
+                    ],
+                    "year": 1987,
+                    "pin_cites": [
+                        {
+                            "page": "341"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "146 Ill. App. 3d 515",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3571163
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "521"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "88 F.3d 441",
+                    "category": "reporters:federal",
+                    "reporter": "F.3d",
+                    "case_ids": [
+                        9044860
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "445"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "619 F.2d 1203",
+                    "category": "reporters:federal",
+                    "reporter": "F.2d",
+                    "case_ids": [
+                        1376834
+                    ],
+                    "year": 1980,
+                    "pin_cites": [
+                        {
+                            "page": "1211"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "631 F.2d 497",
+                    "category": "reporters:federal",
+                    "reporter": "F.2d",
+                    "case_ids": [
+                        10590417
+                    ],
+                    "year": 1980,
+                    "pin_cites": [
+                        {
+                            "page": "504"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "1 Ill. 2d 342",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5314885
+                    ],
+                    "year": 1953,
+                    "pin_cites": [
+                        {
+                            "page": "344"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "264 Ill. App. 3d 946",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        680667
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "949"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "150 Ill. App. 3d 357",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3502447
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "384"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "31 Ill. 2d 266",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2833993
+                    ],
+                    "year": 1964,
+                    "pin_cites": [
+                        {
+                            "page": "270-71"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "378 U.S. 184",
+                    "category": "reporters:federal",
+                    "reporter": "U.S.",
+                    "case_ids": [
+                        6166005
+                    ],
+                    "weight": 3,
+                    "year": 1964,
+                    "pin_cites": [
+                        {
+                            "page": "197",
+                            "parenthetical": "Stewart, J., concurring"
+                        },
+                        {
+                            "page": "803-04",
+                            "parenthetical": "Stewart, J., concurring"
+                        },
+                        {
+                            "page": "1683",
+                            "parenthetical": "Stewart, J., concurring"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/313/70/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/186570/Dottie's%20Dress%20Shoe%20Inc.%20v.%20Village%20of%20Lyons,%20313%20Ill.%20App.%203d%2070%20(2000).pdf",
+            "preview": [
+                "City of <em class='search_highlight'>Peoria</em>, 619 F.2d 1203, 1211 (7th Cir. 1980); North Avenue Novelties, Inc. v.",
+                "American Country <em class='search_highlight'>Insurance</em> Co. v. Wilcoxon, 127 Ill. 2d 230, 238 (1989)."
+            ],
+            "analysis": {
+                "word_count": 2371,
+                "random_bucket": 64808,
+                "sha256": "aee97293c0566f0b617c3af345a7935192cfc4e6b8bd9e42922d6ffb48d505d1",
+                "ocr_confidence": 0.763,
+                "char_count": 14881,
+                "random_id": 1679818024,
+                "pagerank": {
+                    "percentile": 0.4178400411296443,
+                    "raw": 6.870013410148577e-08
+                },
+                "cardinality": 790,
+                "simhash": "1:8dc7b5f7e57fd4f4"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 415350,
+            "url": "https://api.case.law/v1/cases/415350/",
+            "name": "GREG ZANKLE, Plaintiff-Appellant, v. QUEEN ANNE LANDSCAPING et al., Defendants-Appellees",
+            "name_abbreviation": "Zankle v. Queen Anne Landscaping",
+            "decision_date": "2000-02-01",
+            "docket_number": "No. 2—98—1654",
+            "first_page": "308",
+            "last_page": "313",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "311 Ill. App. 3d 308"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066134701/",
+                "volume_number": "311",
+                "barcode": "32044066134701"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "917 S.W2d 12",
+                    "category": "reporters:state_regional",
+                    "reporter": "S.W.2d",
+                    "case_ids": [
+                        9997803
+                    ],
+                    "weight": 3,
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "14"
+                        },
+                        {
+                            "page": "14"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "262 Ill. App. 3d 1082",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2851260
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "1093"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "268 Ill. App. 3d 433",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        381888
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "437-38"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "236 Ill. App. 3d 976",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5784380
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "981"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "174 Ill. 2d 482",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        223623
+                    ],
+                    "weight": 2,
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "501"
+                        },
+                        {
+                            "page": "502"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "64 Ill. 2d 40",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5429218
+                    ],
+                    "year": 1976,
+                    "pin_cites": [
+                        {
+                            "page": "57"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "258 Ill. App. 3d 4",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2879300
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "11-12"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "81 Ill. 2d 151",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5480949
+                    ],
+                    "weight": 4,
+                    "year": 1980,
+                    "pin_cites": [
+                        {
+                            "page": "154"
+                        },
+                        {
+                            "page": "154"
+                        },
+                        {
+                            "page": "154-55"
+                        },
+                        {
+                            "page": "154"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "37 Ill. 2d 494",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2866138
+                    ],
+                    "year": 1967,
+                    "pin_cites": [
+                        {
+                            "page": "510"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "63 Ill. 2d 128",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5426498
+                    ],
+                    "year": 1976,
+                    "pin_cites": [
+                        {
+                            "page": "133"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "173 Ill. 2d 208",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        147640
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "210-11"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/311/308/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/415350/Zankle%20v.%20Queen%20Anne%20Landscaping,%20311%20Ill.%20App.%203d%20308%20(2000).pdf",
+            "preview": [
+                "<em class='search_highlight'>Peoria</em> & Eastern R.R.",
+                "Hallberg <em class='search_highlight'>Insurance</em> Agency, Inc., 262 Ill. App. 3d 1082, 1093 (1994)."
+            ],
+            "analysis": {
+                "word_count": 2290,
+                "random_bucket": 54364,
+                "sha256": "539471e70ffdd182d6ad229e20e777ae1e6b7155c8e4f6bde64210dc591a0d9e",
+                "ocr_confidence": 0.77,
+                "char_count": 14062,
+                "random_id": 1121506396,
+                "pagerank": {
+                    "percentile": 0.8590562538238078,
+                    "raw": 3.097521451858304e-07
+                },
+                "cardinality": 700,
+                "simhash": "1:cba9d54f1b8cc3b7"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 186527,
+            "url": "https://api.case.law/v1/cases/186527/",
+            "name": "CATERPILLAR, INC., Plaintiff-Appellant, v. THE DEPARTMENT OF EMPLOYMENT SECURITY et al., Defendants-Appellees",
+            "name_abbreviation": "Caterpillar, Inc. v. Department of Employment Security",
+            "decision_date": "2000-05-15",
+            "docket_number": "No. 2—99—0810",
+            "first_page": "645",
+            "last_page": "656",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "313 Ill. App. 3d 645"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066191925/",
+                "volume_number": "313",
+                "barcode": "32044066191925"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "257 Ill. App. 3d 354",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2889327
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "358"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "274 Ill. App. 3d 660",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        291529
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "664"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "204 Ill. App. 3d 192",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2576555
+                    ],
+                    "weight": 2,
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "page": "195"
+                        },
+                        {
+                            "page": "195"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "263 Ill. App. 3d 382",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5365121
+                    ],
+                    "weight": 2,
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "389"
+                        },
+                        {
+                            "page": "389"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "279 Ill. App. 3d 794",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        75349
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "799"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "282 Ill. App. 3d 64",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        159556
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "71"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "299 Ill. App. 3d 446",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        221519
+                    ],
+                    "weight": 3,
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "448"
+                        },
+                        {
+                            "page": "448"
+                        },
+                        {
+                            "page": "448"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "269 Ill. App. 3d 370",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        365834
+                    ],
+                    "weight": 2,
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "374"
+                        },
+                        {
+                            "page": "377"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "274 Ill. App. 3d 485",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        291525
+                    ],
+                    "weight": 3,
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "491"
+                        },
+                        {
+                            "page": "490"
+                        },
+                        {
+                            "page": "491"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/313/645/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/186527/Caterpillar,%20Inc.%20v.%20Department%20of%20Employment%20Security,%20313%20Ill.%20App.%203d%20645%20(2000).pdf",
+            "preview": [
+                "mail a copy of a card and letter she had sent to Eric Rueschhoff, Watta’s new boyfriend, who lived in <em class='search_highlight'>Peoria</em>",
+                "Thus, Logan was subject to disqualification for benefits under section 602(A) of the Unemployment <em class='search_highlight'>Insurance</em>",
+                "Under section 602 of the Unemployment <em class='search_highlight'>Insurance</em> Act (820 ILCS 405/602(A) (West 1996)), a former employee"
+            ],
+            "analysis": {
+                "word_count": 4315,
+                "random_bucket": 13308,
+                "sha256": "f797edda7112d224313dbe95c336b6cdeddd425a7ed2efdbe1fff61f88b9b519",
+                "ocr_confidence": 0.763,
+                "char_count": 26275,
+                "random_id": 3469816828,
+                "pagerank": {
+                    "percentile": 0.6351479684515704,
+                    "raw": 1.3598125566465262e-07
+                },
+                "cardinality": 970,
+                "simhash": "1:ef8ff0c04d3de452"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 980662,
+            "url": "https://api.case.law/v1/cases/980662/",
+            "name": "DOMINIC LOMBARDO, Plaintiff-Appellant, v. RELIANCE ELEVATOR COMPANY, Defendant-Appellee; DOMINIC LOMBARDO, Plaintiff-Appellee, v. RELIANCE ELEVATOR COMPANY, Defendant and Counterdefendant-Appellee (W.S. Partners, Defendant and Counterplaintiff-Appellant)",
+            "name_abbreviation": "Lombardo v. Reliance Elevator Co.",
+            "decision_date": "2000-06-30",
+            "docket_number": "Nos. 1—99—1032, 1—99—1033 cons.",
+            "first_page": "111",
+            "last_page": "126",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "315 Ill. App. 3d 111"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044057288599/",
+                "volume_number": "315",
+                "barcode": "32044057288599"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/322/",
+                "full_name": "Illinois Appellate Court Reports, Third Series",
+                "id": 322
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill-app-ct/",
+                "name_abbreviation": "Ill. App. Ct.",
+                "slug": "ill-app-ct",
+                "id": 8837,
+                "name": "Illinois Appellate Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "661 N.E.2d 413",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1996,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "277 Ill. App. 3d 902",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        1172410
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "908"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "115 N.E.2d 800",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1953,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "351 Ill. App. 523",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App.",
+                    "case_ids": [
+                        5112307
+                    ],
+                    "year": 1953,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "159 N.E.2d 520",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1959,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "22 Ill. App. 2d 143",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 2d",
+                    "case_ids": [
+                        5202930
+                    ],
+                    "year": 1959,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "382 N.E.2d 232",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1978,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "73 Ill. 2d 31",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5440793
+                    ],
+                    "year": 1978,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "466 N.E.2d 1064",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1984,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "125 Ill. App. 3d 1053",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3633621
+                    ],
+                    "weight": 2,
+                    "year": 1984,
+                    "pin_cites": [
+                        {
+                            "page": "1064"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "685 N.E.2d 992",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1997,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "292 Ill. App. 3d 558",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        1725096
+                    ],
+                    "weight": 2,
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "561-62"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "652 N.E.2d 807",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "273 Ill. App. 3d 372",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        258789
+                    ],
+                    "year": 1995,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "696 N.E.2d 1271",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1998,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "297 Ill. App. 3d 165",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        910206
+                    ],
+                    "weight": 3,
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "170"
+                        },
+                        {
+                            "page": "174"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "469 N.E.2d 569",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1984,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "103 Ill. 2d 192",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3152614
+                    ],
+                    "year": 1984,
+                    "pin_cites": [
+                        {
+                            "page": "208"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "651 N.E.2d 617",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "272 Ill. App. 3d 925",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        252027
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "933"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "682 N.E.2d 481",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "weight": 2,
+                    "year": 1997,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "289 Ill. App. 3d 1105",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        351171
+                    ],
+                    "weight": 3,
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "1107, 1112"
+                        },
+                        {
+                            "page": "1117"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "707 N.E.2d 239",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1999,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "302 Ill. App. 3d 879",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        1352845
+                    ],
+                    "year": 1999,
+                    "pin_cites": [
+                        {
+                            "page": "884"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "555 N.E.2d 735",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1990,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "198 Ill. App. 3d 9",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2473313
+                    ],
+                    "weight": 3,
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "page": "13-14"
+                        },
+                        {
+                            "page": "12"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "606 N.E.2d 560",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1992,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "238 Ill. App. 3d 712",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5155305
+                    ],
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "718"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "229 N.E.2d 504",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1967,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "37 Ill. 2d 494",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2866138
+                    ],
+                    "year": 1967,
+                    "pin_cites": [
+                        {
+                            "page": "510"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "394 N.E.2d 492",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1979,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "75 Ill. App. 3d 715",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3276960
+                    ],
+                    "year": 1979,
+                    "pin_cites": [
+                        {
+                            "page": "720-21"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "494 N.E.2d 1241",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1986,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "144 Ill. App. 3d 682",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3499485
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "694"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "24 N.E.2d 899",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1939,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "303 Ill. App. 89",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App.",
+                    "case_ids": [
+                        3343946,
+                        3345804
+                    ],
+                    "year": 1939,
+                    "pin_cites": [
+                        {
+                            "page": "100"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "343 N.E.2d 465",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1976,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "62 Ill. 2d 456",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2971860
+                    ],
+                    "year": 1976,
+                    "pin_cites": [
+                        {
+                            "page": "468"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "639 N.E.2d 974",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1994,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "266 Ill. App. 3d 226",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        887269
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "228"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "208 N.E.2d 573",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1965,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "32 Ill. 2d 600",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2839464
+                    ],
+                    "year": 1965,
+                    "pin_cites": [
+                        {
+                            "page": "607-08"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "614 N.E.2d 397",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1993,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "244 Ill. App. 3d 348",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5100124
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "353"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "366 A.2d 101",
+                    "category": "reporters:state_regional",
+                    "reporter": "A.2d",
+                    "year": 1976,
+                    "pin_cites": [
+                        {
+                            "page": "109"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "34 Md. App. 25",
+                    "category": "reporters:state",
+                    "reporter": "Md. App.",
+                    "case_ids": [
+                        2287267
+                    ],
+                    "year": 1976,
+                    "pin_cites": [
+                        {
+                            "page": "37"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "84 Cal. Rptr. 356",
+                    "category": "reporters:state",
+                    "reporter": "Cal. Rptr.",
+                    "year": 1970,
+                    "pin_cites": [
+                        {
+                            "page": "357"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "4 Cal. App. 3d 397",
+                    "category": "reporters:state",
+                    "reporter": "Cal. App. 3d",
+                    "case_ids": [
+                        6035946
+                    ],
+                    "year": 1970,
+                    "pin_cites": [
+                        {
+                            "page": "400"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "261 N.E.2d 491",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1970,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "126 Ill. App. 2d 120",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 2d",
+                    "case_ids": [
+                        1576608
+                    ],
+                    "year": 1970,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "660 N.E.2d 875",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1995,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "169 Ill. 2d 53",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        909166
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "63"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "486 N.E.2d 908",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1985,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "109 Ill. 2d 236",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3126475
+                    ],
+                    "year": 1985,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "148 N.E. 7",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.",
+                    "year": 1925,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "317 Ill. 264",
+                    "category": "reporters:state",
+                    "reporter": "Ill.",
+                    "case_ids": [
+                        5147912
+                    ],
+                    "year": 1925,
+                    "pin_cites": [
+                        {
+                            "page": "269"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "389 N.E.2d 540",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1979,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "75 Ill. 2d 479",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2989976
+                    ],
+                    "year": 1979,
+                    "pin_cites": [
+                        {
+                            "page": "489"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "410 N.E.2d 539",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1980,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "88 Ill. App. 3d 308",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3175492
+                    ],
+                    "year": 1980,
+                    "pin_cites": [
+                        {
+                            "page": "309-10"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "633 N.E.2d 764",
+                    "category": "reporters:state_regional",
+                    "reporter": "N.E.2d",
+                    "year": 1993,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "261 Ill. App. 3d 443",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5375029
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "455"
+                        }
+                    ],
+                    "opinion_id": 0
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-app-3d/315/111/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/980662/Lombardo%20v.%20Reliance%20Elevator%20Co.,%20315%20Ill.%20App.%203d%20111%20(2000).pdf",
+            "preview": [
+                "persons whomsoever while riding upon or being in or about said elevators however caused and we agree to <em class='search_highlight'>insure</em>",
+                "Protective <em class='search_highlight'>Insurance</em> Co. v. Coleman, 144 Ill. App. 3d 682, 694, 494 N.E.2d 1241 (1986).",
+                "<em class='search_highlight'>Peoria</em> & Eastern R.R. Co., 37 Ill. 2d 494, 510, 229 N.E.2d 504 (1967)."
+            ],
+            "analysis": {
+                "word_count": 5920,
+                "random_bucket": 5680,
+                "sha256": "bee5ae03993b7b729b01a868eec14c4f256cb122d356cd07f46277a283eba283",
+                "ocr_confidence": 0.738,
+                "char_count": 36088,
+                "random_id": 183244336,
+                "pagerank": {
+                    "percentile": 0.34260661630486133,
+                    "raw": 5.466826105580707e-08
+                },
+                "cardinality": 1420,
+                "simhash": "1:2204103adcf57554"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        },
+        {
+            "id": 229719,
+            "url": "https://api.case.law/v1/cases/229719/",
+            "name": "MICHIGAN AVENUE NATIONAL BANK, As Special Adm'r of the Estate of Cynthia Collins, Deceased, Appellant, v. THE COUNTY OF COOK et al., Appellees",
+            "name_abbreviation": "Michigan Avenue National Bank v. County of Cook",
+            "decision_date": "2000-06-15",
+            "docket_number": "No. 88286",
+            "first_page": "493",
+            "last_page": "523",
+            "citations": [
+                {
+                    "type": "official",
+                    "cite": "191 Ill. 2d 493"
+                }
+            ],
+            "volume": {
+                "url": "https://api.case.law/v1/volumes/32044066217159/",
+                "volume_number": "191",
+                "barcode": "32044066217159"
+            },
+            "reporter": {
+                "url": "https://api.case.law/v1/reporters/529/",
+                "full_name": "Illinois Reports, Second Series",
+                "id": 529
+            },
+            "court": {
+                "url": "https://api.case.law/v1/courts/ill/",
+                "name_abbreviation": "Ill.",
+                "slug": "ill",
+                "id": 8772,
+                "name": "Illinois Supreme Court"
+            },
+            "jurisdiction": {
+                "id": 29,
+                "name_long": "Illinois",
+                "url": "https://api.case.law/v1/jurisdictions/ill/",
+                "slug": "ill",
+                "whitelisted": true,
+                "name": "Ill."
+            },
+            "cites_to": [
+                {
+                    "cite": "147 Ill. 2d 467",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3278067
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "475-76"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "83 Ill. 2d 462",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5473261
+                    ],
+                    "weight": 2,
+                    "year": 1980,
+                    "pin_cites": [
+                        {
+                            "page": "468"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "178 Ill. 2d 370",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        385561
+                    ],
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "380",
+                            "parenthetical": "rejecting attempt to import the discretionary/ministerial distinction into section 3 - 108(a) of the Tort Immunity Act"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "148 Ill. 2d 151",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3283190
+                    ],
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "166"
+                        },
+                        {
+                            "page": "166"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "56 Ill. App. 3d 997",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3414829
+                    ],
+                    "weight": 2,
+                    "year": 1978,
+                    "pin_cites": [
+                        {
+                            "page": "1002"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "68 Ill. App. 3d 1048",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        3305846
+                    ],
+                    "weight": 2,
+                    "year": 1979,
+                    "pin_cites": [
+                        {
+                            "page": "1055"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "254 Ill. App. 3d 951",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2980520
+                    ],
+                    "weight": 2,
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "964"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "125 Ill. 2d 230",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5555225
+                    ],
+                    "year": 1988,
+                    "pin_cites": [
+                        {
+                            "page": "245"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "135 Ill. 2d 384",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3256710
+                    ],
+                    "year": 1990,
+                    "pin_cites": [
+                        {
+                            "page": "395"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "111 Ill. 2d 416",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3167574
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "424"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "147 Ill. 2d 84",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3278173
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "98"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "51 Ill. 2d 274",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5392724
+                    ],
+                    "weight": 2,
+                    "year": 1972,
+                    "pin_cites": [
+                        {
+                            "page": "277"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "146 Ill. 2d 1",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5597145
+                    ],
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "27"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "174 Ill. 2d 1",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        223608
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "11"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "38 Ill. 2d 223",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        2861276
+                    ],
+                    "weight": 2,
+                    "year": 1967,
+                    "pin_cites": [
+                        {
+                            "page": "225"
+                        },
+                        {
+                            "page": "225"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "158 Ill. 2d 240",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        780293
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "251"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "166 Ill. 2d 144",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        198921
+                    ],
+                    "year": 1995,
+                    "pin_cites": [
+                        {
+                            "page": "148"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "171 Ill. 2d 263",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        57347
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "278"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "255 Ill. App. 3d 1005",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        2991711
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "1008"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "111 Ill. 2d 229",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3166688
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "240"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "156 Ill. 2d 511",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        777551
+                    ],
+                    "year": 1993,
+                    "pin_cites": [
+                        {
+                            "page": "517-18"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "149 Ill. 2d 190",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5599792
+                    ],
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "194-95"
+                        },
+                        {
+                            "page": "194-95"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "158 Ill. 2d 76",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        780263
+                    ],
+                    "year": 1994,
+                    "pin_cites": [
+                        {
+                            "page": "83"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "172 Ill. 2d 373",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        55979
+                    ],
+                    "weight": 2,
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "378"
+                        },
+                        {
+                            "page": "378"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "Cal. Gov't Code § 855.6",
+                    "category": "laws:leg_statute",
+                    "reporter": "Cal. Code",
+                    "weight": 2,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "55 Ill. B.J. 28",
+                    "category": "journals:journal",
+                    "reporter": "Ill. B.J.",
+                    "year": 1966,
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "224 Ill. App. 3d 950",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5251454
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "953"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "294 Ill. App. 3d 712",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        35337
+                    ],
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "716"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "234 Ill. App. 3d 622",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        5186198
+                    ],
+                    "weight": 2,
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "626"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "1965 Ill. Laws 2982",
+                    "category": "laws:leg_session",
+                    "reporter": "Ill. Laws",
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "331 U.S. 519",
+                    "category": "reporters:federal",
+                    "reporter": "U.S.",
+                    "case_ids": [
+                        6158216
+                    ],
+                    "weight": 6,
+                    "year": 1947,
+                    "pin_cites": [
+                        {
+                            "page": "528-29"
+                        },
+                        {
+                            "page": "1652"
+                        },
+                        {
+                            "page": "1392"
+                        },
+                        {
+                            "page": "528-29"
+                        },
+                        {
+                            "page": "1652"
+                        },
+                        {
+                            "page": "1392"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "111 Ill. 2d 350",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        3167435
+                    ],
+                    "year": 1986,
+                    "pin_cites": [
+                        {
+                            "page": "362-63"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "146 Ill. 2d 477",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5597177
+                    ],
+                    "year": 1992,
+                    "pin_cites": [
+                        {
+                            "page": "484"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "186 Ill. 2d 181",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        243860
+                    ],
+                    "year": 1999,
+                    "pin_cites": [
+                        {
+                            "page": "184-85"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "172 Ill. 2d 386",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        55982
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "392"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "171 Ill. 2d 230",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        57346
+                    ],
+                    "year": 1996,
+                    "pin_cites": [
+                        {
+                            "page": "237"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "179 Ill. 2d 173",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        801347
+                    ],
+                    "year": 1997,
+                    "pin_cites": [
+                        {
+                            "page": "177-78"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "183 Ill. 2d 30",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        209987
+                    ],
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "43-44"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "181 Ill. 2d 335",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        821401
+                    ],
+                    "year": 1998,
+                    "pin_cites": [
+                        {
+                            "page": "345"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "306 Ill. App. 3d 392",
+                    "category": "reporters:state",
+                    "reporter": "Ill. App. 3d",
+                    "case_ids": [
+                        1336089
+                    ],
+                    "weight": 6,
+                    "pin_cites": [
+                        {
+                            "page": "401"
+                        },
+                        {
+                            "page": "403"
+                        },
+                        {
+                            "page": "408-09",
+                            "parenthetical": "Cousins, J., dissenting"
+                        },
+                        {
+                            "page": "410",
+                            "parenthetical": "Cousins, J., dissenting"
+                        },
+                        {
+                            "page": "406-07",
+                            "parenthetical": "Cousins, J., dissenting"
+                        }
+                    ],
+                    "opinion_id": 0
+                },
+                {
+                    "cite": "145 Ill. 2d 273",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5596413
+                    ],
+                    "year": 1991,
+                    "pin_cites": [
+                        {
+                            "page": "278"
+                        }
+                    ],
+                    "opinion_id": 1
+                },
+                {
+                    "cite": "83 Ill. 2d 462",
+                    "category": "reporters:state",
+                    "reporter": "Ill. 2d",
+                    "case_ids": [
+                        5473261
+                    ],
+                    "year": 1980,
+                    "pin_cites": [
+                        {
+                            "page": "468"
+                        }
+                    ],
+                    "opinion_id": 1
+                }
+            ],
+            "frontend_url": "https://cite.case.law/ill-2d/191/493/",
+            "frontend_pdf_url": "https://cite.case.law/pdf/229719/Michigan%20Avenue%20National%20Bank%20v.%20County%20of%20Cook,%20191%20Ill.%202d%20493%20(2000).pdf",
+            "preview": [
+                "Greater <em class='search_highlight'>Peoria</em> Sanitary & Sewage Disposal District v. Baise, 234 Ill. App. 3d 622, 626 (1992).",
+                "John Alden Life <em class='search_highlight'>Insurance</em> Co. v. Propp, 255 Ill. App. 3d 1005, 1008 (1994)."
+            ],
+            "analysis": {
+                "word_count": 8567,
+                "random_bucket": 13146,
+                "sha256": "d213d13bb1f68a7fab8655477ee33d36543886eef24769a43d301aa5d9e28087",
+                "ocr_confidence": 0.798,
+                "char_count": 54463,
+                "random_id": 1898918746,
+                "pagerank": {
+                    "percentile": 0.9947045389914009,
+                    "raw": 1.9378553807245215e-06
+                },
+                "cardinality": 1645,
+                "simhash": "1:b4e5ef20b08af054"
+            },
+            "last_updated": "2021-09-21T20:02:18.861595+00:00",
+            "provenance": {
+                "date_added": "2019-08-29",
+                "batch": "2018",
+                "source": "Harvard"
+            }
+        }
+    ]
+}

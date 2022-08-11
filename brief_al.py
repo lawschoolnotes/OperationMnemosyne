@@ -1,0 +1,13 @@
+STYLE = ''
+COURT  = ''
+DATE= ''
+DISPOSITION= ''
+HISTORY= ''
+ISSUE= ''
+FACTS= ''
+RULE= ''
+REASONING= ''
+HOLDING = ''
+TAKEAWAY= ''
+NOTES= ''
+

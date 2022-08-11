@@ -1,0 +1,58 @@
+{
+    "$schema": "https://json-schema.org/draft-07/schema",
+    "id": "/schemas/cases",
+    "title": "Case List",
+    "description": "Identifiers to find a specific court case",
+    "type": "object",
+    "properties": {
+        "$schema": {
+            "type": "string"
+        },
+        "caseList": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "style": {
+                        "description": "Name of the case",
+                        "type": "string"
+                    },
+                    "cite": {
+                        "description": "List of parallel cites for the case",
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "vol": {
+                                    "type": "integer"
+                                },
+                                "reporter": {
+                                    "type": "string",
+                                    "enum": ["U.S.", "S.Ct.", "L.Ed.", "L.Ed.2d", "F.3d"]
+                                },
+                                "page": {
+                                    "type": "integer"
+                                }
+                            },
+                            "required": [
+                                "vol",
+                                "reporter",
+                                "page"
+                            ]
+                        }
+                    },
+                    "year": {
+                        "type": "integer",
+                        "minimum": 1700,
+                        "maximum": 2022
+                    }
+                },
+                "required": [
+                    "style",
+                    "cite",
+                    "year"
+                ]
+        }
+    }
+}
+}
